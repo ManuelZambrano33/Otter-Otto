@@ -1,0 +1,5128 @@
+fileFormatVersion: 2
+guid: 89ffb76a64ef5469abc65e10dadcce97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9063054313059181803
+    second: DarkFantasyUISheet_0
+  - first:
+      213: -9135827326044699416
+    second: DarkFantasyUISheet_1
+  - first:
+      213: 327500982598192726
+    second: DarkFantasyUISheet_2
+  - first:
+      213: -7671531020621971314
+    second: DarkFantasyUISheet_3
+  - first:
+      213: -4372871827526161012
+    second: DarkFantasyUISheet_4
+  - first:
+      213: 6593670414897552970
+    second: DarkFantasyUISheet_5
+  - first:
+      213: 2969108333797472762
+    second: DarkFantasyUISheet_6
+  - first:
+      213: 6812412792265019128
+    second: DarkFantasyUISheet_7
+  - first:
+      213: -9024048978419154461
+    second: DarkFantasyUISheet_8
+  - first:
+      213: 8166396062267093562
+    second: DarkFantasyUISheet_9
+  - first:
+      213: -6946988206319493920
+    second: DarkFantasyUISheet_10
+  - first:
+      213: 3189694777421704357
+    second: DarkFantasyUISheet_11
+  - first:
+      213: 9102693364612854183
+    second: DarkFantasyUISheet_12
+  - first:
+      213: -3451921071377124942
+    second: DarkFantasyUISheet_13
+  - first:
+      213: -3704887146545132600
+    second: DarkFantasyUISheet_14
+  - first:
+      213: -7630300823733025659
+    second: DarkFantasyUISheet_15
+  - first:
+      213: -4521669959781485724
+    second: DarkFantasyUISheet_16
+  - first:
+      213: 8128218775275672513
+    second: DarkFantasyUISheet_17
+  - first:
+      213: 3832217121095390795
+    second: DarkFantasyUISheet_18
+  - first:
+      213: -750710136383532530
+    second: DarkFantasyUISheet_19
+  - first:
+      213: 8802665122906144017
+    second: DarkFantasyUISheet_20
+  - first:
+      213: 5048515049299300382
+    second: DarkFantasyUISheet_21
+  - first:
+      213: -155371283707605869
+    second: DarkFantasyUISheet_22
+  - first:
+      213: 118941856961907619
+    second: DarkFantasyUISheet_23
+  - first:
+      213: 6721295481800808636
+    second: DarkFantasyUISheet_24
+  - first:
+      213: 1846509007727809869
+    second: DarkFantasyUISheet_25
+  - first:
+      213: 2364848576789925739
+    second: DarkFantasyUISheet_26
+  - first:
+      213: 4802216772429151424
+    second: DarkFantasyUISheet_27
+  - first:
+      213: -1054599726342225256
+    second: DarkFantasyUISheet_28
+  - first:
+      213: -3276225073031924702
+    second: DarkFantasyUISheet_29
+  - first:
+      213: 1858414954877339874
+    second: DarkFantasyUISheet_30
+  - first:
+      213: -3685886296025633558
+    second: DarkFantasyUISheet_31
+  - first:
+      213: 9118581509135848010
+    second: DarkFantasyUISheet_32
+  - first:
+      213: -2619632802576125864
+    second: DarkFantasyUISheet_33
+  - first:
+      213: -3856619682316626068
+    second: DarkFantasyUISheet_34
+  - first:
+      213: 2687824302776288150
+    second: DarkFantasyUISheet_35
+  - first:
+      213: 3678903687033911837
+    second: DarkFantasyUISheet_36
+  - first:
+      213: 4590450410118826137
+    second: DarkFantasyUISheet_37
+  - first:
+      213: -2252403045238835281
+    second: DarkFantasyUISheet_38
+  - first:
+      213: 2530442941669703635
+    second: DarkFantasyUISheet_39
+  - first:
+      213: -8151764014648170376
+    second: DarkFantasyUISheet_40
+  - first:
+      213: 5277169294009521821
+    second: DarkFantasyUISheet_41
+  - first:
+      213: -6867324487056637871
+    second: DarkFantasyUISheet_42
+  - first:
+      213: 3053221060305836083
+    second: DarkFantasyUISheet_43
+  - first:
+      213: -4984933479045246223
+    second: DarkFantasyUISheet_44
+  - first:
+      213: -2972107420937689874
+    second: DarkFantasyUISheet_45
+  - first:
+      213: -4926780124745020015
+    second: DarkFantasyUISheet_46
+  - first:
+      213: 3749844367833768349
+    second: DarkFantasyUISheet_47
+  - first:
+      213: 1277258585268317242
+    second: DarkFantasyUISheet_48
+  - first:
+      213: -3943363320388550591
+    second: DarkFantasyUISheet_49
+  - first:
+      213: 2079466300037466961
+    second: DarkFantasyUISheet_50
+  - first:
+      213: 2949313371646104598
+    second: DarkFantasyUISheet_51
+  - first:
+      213: -2013255683910488395
+    second: DarkFantasyUISheet_52
+  - first:
+      213: -5260306854149752782
+    second: DarkFantasyUISheet_53
+  - first:
+      213: 4907438509825537201
+    second: DarkFantasyUISheet_54
+  - first:
+      213: -9110030762348391865
+    second: DarkFantasyUISheet_55
+  - first:
+      213: -4443849935736260611
+    second: DarkFantasyUISheet_56
+  - first:
+      213: -258010670350173576
+    second: DarkFantasyUISheet_57
+  - first:
+      213: 2087342434756183150
+    second: DarkFantasyUISheet_58
+  - first:
+      213: 45737861541029216
+    second: DarkFantasyUISheet_59
+  - first:
+      213: 6097816168220411843
+    second: DarkFantasyUISheet_60
+  - first:
+      213: 5221592328350014056
+    second: DarkFantasyUISheet_61
+  - first:
+      213: 7691894222613973894
+    second: DarkFantasyUISheet_62
+  - first:
+      213: 2549961985477676866
+    second: DarkFantasyUISheet_63
+  - first:
+      213: 8401341556242999793
+    second: DarkFantasyUISheet_64
+  - first:
+      213: 4797005521413784800
+    second: DarkFantasyUISheet_65
+  - first:
+      213: 5960614094226469394
+    second: DarkFantasyUISheet_66
+  - first:
+      213: -6938163737689484071
+    second: DarkFantasyUISheet_67
+  - first:
+      213: 6302452015424922718
+    second: DarkFantasyUISheet_68
+  - first:
+      213: -2254833694824641541
+    second: DarkFantasyUISheet_69
+  - first:
+      213: -1301455502812437408
+    second: DarkFantasyUISheet_70
+  - first:
+      213: 2607221925268745955
+    second: DarkFantasyUISheet_71
+  - first:
+      213: 2707890312010272250
+    second: DarkFantasyUISheet_72
+  - first:
+      213: 5372469465092579102
+    second: DarkFantasyUISheet_73
+  - first:
+      213: 3906572745001126175
+    second: DarkFantasyUISheet_74
+  - first:
+      213: -173822546505012601
+    second: DarkFantasyUISheet_75
+  - first:
+      213: 372879002307184357
+    second: DarkFantasyUISheet_76
+  - first:
+      213: 801813811471990671
+    second: DarkFantasyUISheet_77
+  - first:
+      213: -6639921337163722271
+    second: DarkFantasyUISheet_78
+  - first:
+      213: 474645934526839874
+    second: DarkFantasyUISheet_79
+  - first:
+      213: -8263939826225748991
+    second: DarkFantasyUISheet_80
+  - first:
+      213: 6941871733888140808
+    second: DarkFantasyUISheet_81
+  - first:
+      213: -1330854859362922054
+    second: DarkFantasyUISheet_82
+  - first:
+      213: 728661124967089274
+    second: DarkFantasyUISheet_83
+  - first:
+      213: 669632002966896127
+    second: DarkFantasyUISheet_84
+  - first:
+      213: 1026134248854318364
+    second: DarkFantasyUISheet_85
+  - first:
+      213: 5603847267906672777
+    second: DarkFantasyUISheet_86
+  - first:
+      213: -4893739178921772794
+    second: DarkFantasyUISheet_87
+  - first:
+      213: 4920111472888654025
+    second: DarkFantasyUISheet_88
+  - first:
+      213: 1636414958630194446
+    second: DarkFantasyUISheet_89
+  - first:
+      213: -5947160011105686264
+    second: DarkFantasyUISheet_90
+  - first:
+      213: 3597381916053689844
+    second: DarkFantasyUISheet_91
+  - first:
+      213: 334588517087826392
+    second: DarkFantasyUISheet_92
+  - first:
+      213: -261229167694427482
+    second: DarkFantasyUISheet_93
+  - first:
+      213: -938704802392851366
+    second: DarkFantasyUISheet_94
+  - first:
+      213: -5863800983398579801
+    second: DarkFantasyUISheet_95
+  - first:
+      213: 7809490594921802796
+    second: DarkFantasyUISheet_96
+  - first:
+      213: -5035385372463166661
+    second: DarkFantasyUISheet_97
+  - first:
+      213: -8950362910863543182
+    second: DarkFantasyUISheet_98
+  - first:
+      213: 7666750019330705343
+    second: DarkFantasyUISheet_99
+  - first:
+      213: -5481104763677706968
+    second: DarkFantasyUISheet_100
+  - first:
+      213: 2603122697869723017
+    second: DarkFantasyUISheet_101
+  - first:
+      213: 7104981783500779056
+    second: DarkFantasyUISheet_102
+  - first:
+      213: -5521663178664533890
+    second: DarkFantasyUISheet_103
+  - first:
+      213: -64929184271714673
+    second: DarkFantasyUISheet_104
+  - first:
+      213: -1177901690353317282
+    second: DarkFantasyUISheet_105
+  - first:
+      213: -1337625655616091949
+    second: DarkFantasyUISheet_106
+  - first:
+      213: 3996094193261414022
+    second: DarkFantasyUISheet_107
+  - first:
+      213: -7369850583435332038
+    second: DarkFantasyUISheet_108
+  - first:
+      213: -2539489038540777142
+    second: DarkFantasyUISheet_109
+  - first:
+      213: 4082249045096387516
+    second: DarkFantasyUISheet_110
+  - first:
+      213: 8371247997399253970
+    second: DarkFantasyUISheet_111
+  - first:
+      213: -8300063492025374775
+    second: DarkFantasyUISheet_112
+  - first:
+      213: -3899683127515325262
+    second: DarkFantasyUISheet_113
+  - first:
+      213: 7444264262024639377
+    second: DarkFantasyUISheet_114
+  - first:
+      213: 8679442865835287051
+    second: DarkFantasyUISheet_115
+  - first:
+      213: -8960814492131589748
+    second: DarkFantasyUISheet_116
+  - first:
+      213: 5561570718557052077
+    second: DarkFantasyUISheet_117
+  - first:
+      213: -5397898931938345945
+    second: DarkFantasyUISheet_118
+  - first:
+      213: 3643890603783487670
+    second: DarkFantasyUISheet_119
+  - first:
+      213: -1507914562345996078
+    second: DarkFantasyUISheet_120
+  - first:
+      213: -7556866383506265178
+    second: DarkFantasyUISheet_121
+  - first:
+      213: -3899232319871071558
+    second: DarkFantasyUISheet_122
+  - first:
+      213: -7422194372860207919
+    second: DarkFantasyUISheet_123
+  - first:
+      213: -8218805589123713000
+    second: DarkFantasyUISheet_124
+  - first:
+      213: -5830703284480888397
+    second: DarkFantasyUISheet_125
+  - first:
+      213: -2087234369209161258
+    second: DarkFantasyUISheet_126
+  - first:
+      213: 2365249073929889359
+    second: DarkFantasyUISheet_127
+  - first:
+      213: 8069194049190665422
+    second: DarkFantasyUISheet_128
+  - first:
+      213: -2032504462784925859
+    second: DarkFantasyUISheet_129
+  - first:
+      213: -5439642009767360772
+    second: DarkFantasyUISheet_130
+  - first:
+      213: 394886164967274681
+    second: DarkFantasyUISheet_131
+  - first:
+      213: 6853401919558174445
+    second: DarkFantasyUISheet_132
+  - first:
+      213: -3948141395964126363
+    second: DarkFantasyUISheet_133
+  - first:
+      213: -6239205494791343878
+    second: DarkFantasyUISheet_134
+  - first:
+      213: -5528626729951337022
+    second: DarkFantasyUISheet_135
+  - first:
+      213: -9194953348263859113
+    second: DarkFantasyUISheet_136
+  - first:
+      213: 7964331298250563419
+    second: DarkFantasyUISheet_137
+  - first:
+      213: 5336907388053775868
+    second: DarkFantasyUISheet_138
+  - first:
+      213: -4937937345955851527
+    second: DarkFantasyUISheet_139
+  - first:
+      213: -585372959523730202
+    second: DarkFantasyUISheet_140
+  - first:
+      213: 9202887288720354848
+    second: DarkFantasyUISheet_141
+  - first:
+      213: -3765945962477091363
+    second: DarkFantasyUISheet_142
+  - first:
+      213: -6785326422958471584
+    second: DarkFantasyUISheet_143
+  - first:
+      213: 970594514675528754
+    second: DarkFantasyUISheet_144
+  - first:
+      213: 4107162477555695345
+    second: DarkFantasyUISheet_145
+  - first:
+      213: 1204447832391325632
+    second: DarkFantasyUISheet_146
+  - first:
+      213: -6351774843579404222
+    second: DarkFantasyUISheet_147
+  - first:
+      213: -5116587523042186896
+    second: DarkFantasyUISheet_148
+  - first:
+      213: -6513810361143707310
+    second: DarkFantasyUISheet_149
+  - first:
+      213: -4013344287899876039
+    second: DarkFantasyUISheet_150
+  - first:
+      213: 6796753052507588113
+    second: DarkFantasyUISheet_151
+  - first:
+      213: -2937306204650564265
+    second: DarkFantasyUISheet_152
+  - first:
+      213: 4675183147270864559
+    second: DarkFantasyUISheet_153
+  - first:
+      213: -8478206273768130465
+    second: DarkFantasyUISheet_154
+  - first:
+      213: -8439740311846576295
+    second: DarkFantasyUISheet_155
+  - first:
+      213: 5317243255916788752
+    second: DarkFantasyUISheet_156
+  - first:
+      213: -2725379310125725351
+    second: DarkFantasyUISheet_157
+  - first:
+      213: 4530686131423434127
+    second: DarkFantasyUISheet_158
+  - first:
+      213: 5295965232521291768
+    second: DarkFantasyUISheet_159
+  - first:
+      213: 600515893362189163
+    second: DarkFantasyUISheet_160
+  - first:
+      213: -8524103714898681342
+    second: DarkFantasyUISheet_161
+  - first:
+      213: -3348052525184039924
+    second: DarkFantasyUISheet_162
+  - first:
+      213: -2567466454304092444
+    second: DarkFantasyUISheet_163
+  - first:
+      213: -7836893295325045898
+    second: DarkFantasyUISheet_164
+  - first:
+      213: 7551657876367400674
+    second: DarkFantasyUISheet_165
+  - first:
+      213: -5265212158070313748
+    second: DarkFantasyUISheet_166
+  - first:
+      213: -8632682376466661454
+    second: DarkFantasyUISheet_167
+  - first:
+      213: -7213123372039216577
+    second: DarkFantasyUISheet_168
+  - first:
+      213: 388254838578793874
+    second: DarkFantasyUISheet_169
+  - first:
+      213: -7540887027496716635
+    second: DarkFantasyUISheet_170
+  - first:
+      213: 6593056504434366056
+    second: DarkFantasyUISheet_171
+  - first:
+      213: 9129903939968333947
+    second: DarkFantasyUISheet_172
+  - first:
+      213: 563221501774395105
+    second: DarkFantasyUISheet_173
+  - first:
+      213: 4378130062834563429
+    second: DarkFantasyUISheet_174
+  - first:
+      213: 2624362343587468032
+    second: DarkFantasyUISheet_175
+  - first:
+      213: 9099761995438066542
+    second: DarkFantasyUISheet_176
+  - first:
+      213: -2160139092056248221
+    second: DarkFantasyUISheet_177
+  - first:
+      213: 5639429690874426847
+    second: DarkFantasyUISheet_178
+  - first:
+      213: -5000701460150658621
+    second: DarkFantasyUISheet_179
+  - first:
+      213: -7853284041298085149
+    second: DarkFantasyUISheet_180
+  - first:
+      213: -5138983657523127633
+    second: DarkFantasyUISheet_181
+  - first:
+      213: -5793819740074068568
+    second: DarkFantasyUISheet_182
+  - first:
+      213: 1824046524376777120
+    second: DarkFantasyUISheet_183
+  - first:
+      213: 1481291708034881834
+    second: DarkFantasyUISheet_184
+  - first:
+      213: 3181283421830188793
+    second: DarkFantasyUISheet_185
+  - first:
+      213: -1447275744810889130
+    second: DarkFantasyUISheet_186
+  - first:
+      213: -8971054245368989036
+    second: DarkFantasyUISheet_187
+  - first:
+      213: 4500341979418533545
+    second: DarkFantasyUISheet_188
+  - first:
+      213: 3391316048127819072
+    second: DarkFantasyUISheet_189
+  - first:
+      213: -6700860242948388943
+    second: DarkFantasyUISheet_190
+  - first:
+      213: -4568456382726603973
+    second: DarkFantasyUISheet_191
+  - first:
+      213: -943986441389426407
+    second: DarkFantasyUISheet_192
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 884
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526a6f236d0646546aa632c3dce4e0e2
+      internalID: -256992316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 884
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028823857b0df5d4fada95273e54930c
+      internalID: 975450839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 884
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601b15fcd4a940d40bfa2305926e915b
+      internalID: 1723338882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_3
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 932
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8717c1e0b2e35244d835f18a20607ab0
+      internalID: 737402832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 932
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa93c06e30898b64396593d052430889
+      internalID: 1028283139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_5
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 932
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d378b335fcc4a40b0afd03c0decae3
+      internalID: -1847102694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_6
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 932
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaf22561f8977f4997c135bd25508b6
+      internalID: -422699816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_7
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 933
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7238993df4ab758449b80dd33bc71755
+      internalID: 1994419395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_8
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 932
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39732811f4ed4441ac39c7380cf1902
+      internalID: 1494383434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_9
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 932
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522144157ff7dd845857cc287a61df05
+      internalID: -1510211464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_10
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 933
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0521232e4b5aa7d45b0e616e40e8932d
+      internalID: -872344599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 900
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c110f2e488e2fe409ddc407d63c73b3
+      internalID: -901844918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_12
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 900
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f28b0cd65c8334fb05cae1a60cd9ca
+      internalID: 1644055781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_13
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 898
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64e58578a50f634e9a47a7acc0d8c48
+      internalID: -1928702831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_14
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 898
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5b40dcd4ab47948a99c76e9bd5ad37
+      internalID: -227860771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_15
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 899
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ccd50af69adaa4e9a66590a7b6cfa1
+      internalID: -644975031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 772
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37c1a222a61c8441bfaa02e36ee4301
+      internalID: -1742580264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 772
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4432abd67844b4596ee0922b968cc6
+      internalID: 611290432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_18
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 772
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9098c49023bd447419a33edeaeb33fdf
+      internalID: -866939544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_19
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 836
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94af1c241a5d3e142b8f21347f7dbfba
+      internalID: -1783012023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_20
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 836
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5535307b10ae71841bcae2f84bbda55b
+      internalID: -706657639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_21
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 836
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48c3745ec7d58f4d81655a486e72ee5
+      internalID: 2004728552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_22
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 836
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a8f80697bf29547a1b09094d1102ae
+      internalID: 1882585198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_23
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 837
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf13ea10976d6db449627a569f82e3ff
+      internalID: -455797608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_24
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 836
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bde1c92da6d5f48ae27e59563dae34
+      internalID: -174435582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_25
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 836
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9bb455cd556d646a1a58ebc1462bbe
+      internalID: -37397002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_26
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 837
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1164cbce3ee25dd418dc0d2e99885d02
+      internalID: -78108190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_27
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 804
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa02056db0d1d224aa76b63b6b46cc7e
+      internalID: 170254028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_28
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 804
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5eba644dbe4fd4e8f30c5f6059b172
+      internalID: 2076371797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_29
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 802
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94be0e8db49484e46813efba4a0bd073
+      internalID: -1177354044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_30
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 802
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4284bb55c382004694c2a7b953a5f92
+      internalID: 1210028667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_31
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 803
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da7614907537ab4b8609edb26c3e5a6
+      internalID: 1207631373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_32
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 775
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899af359495d50b41815d692e583534b
+      internalID: -1774968505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_33
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 775
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795618bef07bebd4abc056de5d60989c
+      internalID: 1529228099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_34
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 774
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ee20fe9c6af6b4aa12ffb1fd7169c2
+      internalID: 1596969993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_35
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 774
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1bcd5cb5496fa40bd281a7f8b2bd8e
+      internalID: -1640554935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_36
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 773
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c3095b62faca9429624ddd61a336ec
+      internalID: -1989910410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_37
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 773
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d66ee2a7517a74bb9acd525d000bd2
+      internalID: 986601398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_38
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 743
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365d95f738cd82c49aa32197031558cc
+      internalID: 796100681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_39
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 743
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68501d02092c249448c4c2ab39e016e6
+      internalID: -1258520631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_40
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 757
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31064daad14f6864a933273cb0d8d4bf
+      internalID: -826626157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_41
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 757
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb5db30df770e44e8b1c894f1b1bda8
+      internalID: 349380860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_42
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 758
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e135624408f1ea04daf78058251547fa
+      internalID: 1811154261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_43
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 758
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596d3d4214a929e4c93d444fba3fc4c3
+      internalID: 991737527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_44
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 708
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff0be2a859486f4e91fb8040fe0c026
+      internalID: 370592013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_45
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 708
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788c0a6c09dec1a48add3d077f23d1b7
+      internalID: 121672780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_46
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 708
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71118772018f9a4a8518b2b1313c573
+      internalID: 1330570362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_47
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 708
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa56189761179f4b9d68ce37aa3d7ce
+      internalID: -1223605214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_48
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 708
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eeae00adb752fb4884b252f5425d06d
+      internalID: -55648175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_49
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 708
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e930fb3990faec40b968a5e5965e80f
+      internalID: -1235043632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_50
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 708
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de95e24f2970d254396dd3f959497c11
+      internalID: -1168423095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_51
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 708
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aaaa817249417844a99b0532209580e
+      internalID: -272493821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_52
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 742
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217534a3832ae974eb58589884437733
+      internalID: 1908064076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_53
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 742
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6656b231c8d9944af879ce6c194fd0
+      internalID: 423443315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_54
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 741
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b67285af2d22d4698adca2fad4aa8f
+      internalID: -2113784743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_55
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 741
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114a9cf5d73a9994e8dbe1aa8595c073
+      internalID: 895818510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_56
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 728
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fe5735565e85f4f9efd1e5670095dd
+      internalID: 197237274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_57
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 730
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbc484bbbc44154083f574c0b14f39c
+      internalID: -927635043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_58
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 713
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0fee6ef07ad9d4babb0a5543abff6e
+      internalID: 278955154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_59
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 713
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca24c8ef11010546a6a453fa53a0898
+      internalID: -114131334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_60
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 725
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fea945250051445a017bcb681685f2
+      internalID: 199460830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_61
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 725
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197a16155d2786442879202c636cba21
+      internalID: 1888251604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_62
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 726
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a93f87d407b6e940a3169862b5b43b1
+      internalID: 1145468163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_63
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 726
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc613521882c13b429b5891970e0bf00
+      internalID: -1800718850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_64
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 712
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7529e91126c36884baede8e20b499f52
+      internalID: -313328906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_65
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 712
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02acb091be21bf4ba093d61bec43a7c
+      internalID: -825015802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_66
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 711
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449d9cfbabc3df14ebaaf2d12dbd5194
+      internalID: 674481914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_67
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 711
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4186225be78592f4bbe74d7a8c043547
+      internalID: -1711420739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_68
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 676
+        width: 112
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ba39798c0c03d48960ed7ee1f35474
+      internalID: 387917122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_69
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 681
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdde3574f50158b4197b9dab9adb9212
+      internalID: -57181273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_70
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 681
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf481f71acc0e7444832de79fc0994dd
+      internalID: -709171010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_71
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 693
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0281d1f09206ac44e95b11df1d7c702a
+      internalID: 774864830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_72
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 693
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ce5193828e8f145ade672dfa1632d2
+      internalID: -296099123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_73
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 694
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a66e09161568164684ae7c8e1e5f722
+      internalID: 1794552600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_74
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 694
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0296bc669f010fa4dbf98c8c94f5ee1d
+      internalID: 2111059729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_75
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 674
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2c9fbc3179f33479896f2672486d98
+      internalID: -858560947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_76
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 674
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71e57c23464c2245810bbc8a9fc0553
+      internalID: -849657452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_77
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 674
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6311f120973435408b6b7b316f28c14
+      internalID: -799619786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_78
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 674
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbb8aa5592bc2645ad6861012669895
+      internalID: -94468502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_79
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 674
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d4425d8a13ea549a06c733c715e17a
+      internalID: -343164493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_80
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 674
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218c281a0a18f614bbaa0c5494dab11d
+      internalID: -492911380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_81
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 680
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ad04dd831ec37478c9c2e153dcacd0
+      internalID: -165435570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_82
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 680
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d318f9e7154b55428938744f42f7f0c
+      internalID: 998974931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_83
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 679
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d10fba58cafb4b4b8a51b0bfc93b827
+      internalID: -481818126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_84
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 679
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991489bf8d8ae644a834ceaec77b9dfd
+      internalID: 1968228779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_85
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 644
+        width: 111
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc96d904531f1e41888cef060d8d8ff
+      internalID: 1981521522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_86
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 624
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5130971007b4147bea1f947b43d9dc
+      internalID: 1293962735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_87
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 624
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78e884f38a58b14e804cea7b0bcd1e2
+      internalID: 1961407889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_88
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 624
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241ef8629f914e14799ed2970d905bb6
+      internalID: -805540160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_89
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 624
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84da96a5676e51d4d89e7da15b5e68cd
+      internalID: -945381254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_90
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 649
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f07f7286ce1eb4289885e6427618a9
+      internalID: 2086066834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_91
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 649
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7860d739978115468cd3ae47548f03c
+      internalID: -1319780698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_92
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 661
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0c45083be8d4746aa98ed64b0a4bed
+      internalID: -1539625508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_93
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 661
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414a13578e8f3e94ebe085bddf25dbb8
+      internalID: -2052922713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_94
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 662
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1ab015a95cd9048a1233ebadc2e291
+      internalID: 1429904234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_95
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 662
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42092f055ed18fc49af5f89c7b56f67a
+      internalID: 1558362611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_96
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 648
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b50fb43d51cd542bcbf3dac926ac5f
+      internalID: 1569009115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_97
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 648
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5d18a2b8e27d044907f9b3a8b951d2
+      internalID: 1600297059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_98
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 647
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cc90fbb5124db4ca1cd6f32a14b97b
+      internalID: 697080834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_99
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 647
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efea3463097c3ae45afd23b99893971d
+      internalID: 414135190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_100
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 628
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd5d37dbacda9446879642b3ff6c3be
+      internalID: 565557559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_101
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 628
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742fca738eb254f45a2464f7200e5271
+      internalID: 1191352776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_102
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 629
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798970dcaea5b6542bc9606413be455e
+      internalID: -1169738430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_103
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 629
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427c0c093b15e4142a600d4e5454d988
+      internalID: 1815061376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_104
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 630
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a943578f29bf3946a745855a9eb42e0
+      internalID: -512222454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_105
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 630
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e68c577cf9dc743962d6ec981dd664
+      internalID: -763728229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_106
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 564
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca05907f0603bd5488cb6ca397700635
+      internalID: -1720137171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_107
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 555
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62daa9f8b59f794dba7c4f6f0f9358d
+      internalID: -1583932064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_108
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 614
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedbacbe9803fe043aa17f26c4c509cd
+      internalID: 186517057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_109
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 601
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9bb0b1c9f31904893429fd34b61ba8
+      internalID: 1378067282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_110
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 602
+        width: 48
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88507586fb3d17e4e95b8b19e5a6d67e
+      internalID: -2066127313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_111
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 601
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023a7d54148eca249a587f21f6467104
+      internalID: 748362267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_112
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 601
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e38ed7a36a1841448db37f64a5b78c3
+      internalID: 2054177268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_113
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 597
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69509355be68d284f8a322482bb7a3c2
+      internalID: 1645328468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_114
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 597
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93330d71abe69d49a4aa655c72af288
+      internalID: -1531106501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_115
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 600
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eba4e0089bb1aa48a75a7504808588f
+      internalID: -1077835812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_116
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 585
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7294e83d988270b46aa253f8707de0d4
+      internalID: 629284091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_117
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 585
+        width: 48
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc7de8728633e44380d58812dd41193
+      internalID: 183564793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_118
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 548
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f03445af369554598ca4a09da22ee9
+      internalID: 1959901397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_119
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 548
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d412633a92d514f845d6c4ea33f3f2
+      internalID: -1041241666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_120
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 548
+        width: 6
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f2b6d8515a15844bc55d9925e0d736
+      internalID: -173901543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_121
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 548
+        width: 6
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6006ea69a078f5428ec97aa28c0d290
+      internalID: 452421759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_122
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 580
+        width: 192
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ba7aeebf4ab3c478d40b21d582b66a
+      internalID: -324403919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_123
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 584
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eec5d971fb47646b087d009225aa7d
+      internalID: 1913953784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_124
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 568
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29580e81d9a24414cb19642d43b8893b
+      internalID: 1092925439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_125
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 540
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6936426374de93d43bd9eb280a7f66bb
+      internalID: -22992610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_126
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 541
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b95f66693b749408f23180e326f40e
+      internalID: 1276747809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_127
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 541
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724d8a02239c0074994c94a84a1919cd
+      internalID: -2124802792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_128
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 536
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c45627f14dda7242ae9d8d9e4e896c9
+      internalID: -493599943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_129
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 553
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926d1da883793de4690581a170e63762
+      internalID: 1011053012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_130
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 553
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2570a9d84c812f54b8d19dabb079c0fd
+      internalID: -984660366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_131
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 553
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00136976ed3df84b99681bf1f183b6b
+      internalID: 1535347335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_132
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 552
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b985e8421179edd4b960a90dcd94c0a3
+      internalID: 57048021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_133
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 552
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efae2a25c335f9408dce7bac9169846
+      internalID: 172343743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_134
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 552
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e92e895faefcf4caa85b22def3c937
+      internalID: -1437735585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_135
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 552
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668f849bbceb5ef49864cb729da48c25
+      internalID: 1761175377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_136
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 553
+        width: 48
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b490fe8d815e57c48bbe0c00f241d7ae
+      internalID: 1894228376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_137
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 548
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ef1e681aa56da48a3f92fcaf4f8f59
+      internalID: -593288692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_138
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 549
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a027f6be40a4c4784717e130f1c26f
+      internalID: 1604169175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_139
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 552
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eee36252f91175479dd984d241005ac
+      internalID: 2096362744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_140
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 546
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add9c33f88843c9498b4243e4f3f612d
+      internalID: -1244028693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_141
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 546
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c40cf4cd149ec4fb06e752d63de8ce
+      internalID: -751299651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_142
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 546
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f34f81840e995e4aaba32ecb1043445
+      internalID: 2128179608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_143
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 539
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5aa505fba5e16641901112d67d14415
+      internalID: 1181262665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_144
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 539
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa89f3dc4d6f5fb4ca7dc972a3c1065a
+      internalID: 75536144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_145
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 539
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599e080d70eb1034ba52f1759038fe5a
+      internalID: -1903763784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_146
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 537
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa504250fb8419742bee3636b8a40df1
+      internalID: -2121104188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_147
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 538
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f219e2523a83ede4a912feb9e8b1c54c
+      internalID: -1735380836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_148
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 536
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0fe27edc6a8674685c3f17c75a8c4f
+      internalID: -1321815883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_149
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 537
+        width: 48
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64475564f2537464bb913ff8aeae6393
+      internalID: -1974885388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_150
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 484
+        width: 15
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549e91cfa2e0fb0498e75161e54fb608
+      internalID: 1598274736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_151
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 524
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d09db6585229a40a53898d0e136201
+      internalID: 106012114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_152
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 508
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7d7529d5879cd4ba3517082d6e54d0
+      internalID: 82585038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_153
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 508
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b7ef5cd28b37c49968cba75727acde
+      internalID: -1330656344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_154
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 508
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5980e8013ca0749ae66a5f4078a32b
+      internalID: 1579258457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_155
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 508
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddad434ccb8b5a479daf3707a0739b2
+      internalID: 1526925725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_156
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 500
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88a24f27da9ce74f87d00673217fb08
+      internalID: -332538779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_157
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 500
+        width: 432
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9de18b407f60e41ac40b23aea579ec
+      internalID: 2083565442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_158
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 474
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501d9f07d47e5054fa9c17460e703cd6
+      internalID: 1092914551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_159
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 474
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c10d0908c647843917b20287aa0265
+      internalID: 465951834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_160
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 474
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f1a5f67ca8cf74baf560a8513baae2
+      internalID: 1549775406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_161
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 474
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e455944c38a2f141bdd6d4df93ca83b
+      internalID: -463625370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_162
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 484
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2267181ee18119d45be274eb0c41d451
+      internalID: -1458174419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_163
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 441
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f044f88c8c3c9784fa565a5bf6f191be
+      internalID: -1884971825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_164
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 440
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2008daf30fd33bb4cbf73779aefa47fa
+      internalID: -1506600148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_165
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 441
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfc777cb4dac5644a2a24a428b4fcae
+      internalID: -341197214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_166
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 440
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6da0a20094b4f04bb4980bc71da9ef8
+      internalID: 457295590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_167
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 440
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81762ac6e323b74e96841616079027b
+      internalID: 379881648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_168
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 441
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace6a975038654348b1a7d0d6e5e907f
+      internalID: 430298924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_169
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 440
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6bcb70c61882749b17759a959ae753
+      internalID: -2012309554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_170
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 441
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513ae6e577ec43a48bb136188d927559
+      internalID: 1494267334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_171
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 440
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f08deb815881f645af6874b3c9cfe14
+      internalID: 1434822530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_172
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 440
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8e22865a019b449baabdeed890ab68
+      internalID: 272249498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_173
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 441
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d748c72cf452584d9a184d3ed3db211
+      internalID: -372709114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_174
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 440
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491ffc327ba3d9a4eb8d8415e151d22d
+      internalID: 1034931211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_175
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 441
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fa24eb3355c3b4d8bc8d6635f215aa
+      internalID: 670262081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_176
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 440
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6034fdf00ed739849bc590d1b2423f94
+      internalID: 207858184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_177
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 440
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac6e7a84b58a854eb9d4f12b901573a
+      internalID: -1437679968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_178
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 424
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d40a0c1bcdb6a34fb795db9b96e529d
+      internalID: -1055270863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_179
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 413
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13a1fd07943cbc499f822e3af774721
+      internalID: -997642567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_180
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 420
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa46ba53c0c45248b58caf8c69f647f
+      internalID: 1055617157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_181
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 404
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1809739f4237b44acf593357657930
+      internalID: 1949872844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_182
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 424
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ec8b4f12f75da4285380b5942192f1
+      internalID: 1965022430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_183
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 413
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626cf1687530c9640858dcdb165246f7
+      internalID: 156123584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_184
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 420
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44c63da5eb4d944ab3c01274025c7d7
+      internalID: -1583256759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_185
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 423
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947d1da1ce806764db1c8968d4f0572a
+      internalID: -371873643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_186
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 424
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d07dd0d73a879d44863089c972ba03d
+      internalID: 1429367831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_187
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 413
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9cc80ec6e51954094a2984ae2c26ac
+      internalID: -968125814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_188
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 420
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bba74524e95d424d84d6b3e8a47ac55
+      internalID: 1604406209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_189
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 423
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e20e1d22dde05848832385294a4594a
+      internalID: 888678454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_190
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 397
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bd29b791148dd44971926913c8e79c
+      internalID: -1039965102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_191
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 398
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e911bbe8075cb304c85e2b7f14a5e2c1
+      internalID: 1120517771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_192
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 404
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d38f6bd5d3cb8549b296680fc0c5192
+      internalID: 575293670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_193
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 397
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e678942456f2a64895b88c83547d6b1
+      internalID: 527163231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_194
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 398
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706c39ef3dbbbec47959b2f09a8dc69e
+      internalID: 1761919450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_195
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 404
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581d365b641ea254aa213cd74014ddcf
+      internalID: 2037773369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_196
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 404
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eaedd61edfac834bad08d760c0641cb
+      internalID: -368702433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_197
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 397
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4ae42190b24cc41a76a9bcfe38dcde
+      internalID: 940613971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_198
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 398
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65b8f4e100839d4db4059cb18921091
+      internalID: -1036273633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_199
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 404
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c64187a467c26b49a12f74f336db0f4
+      internalID: -1244112507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldWoodFantasyUISheet_200
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 404
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb39ca93ab84b743a61bc8731fd41a9
+      internalID: -491916514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6f95fa91041624e9aadf51dbf5749776
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GoldWoodFantasyUISheet_0: -256992316
+      GoldWoodFantasyUISheet_1: 975450839
+      GoldWoodFantasyUISheet_10: -872344599
+      GoldWoodFantasyUISheet_100: 565557559
+      GoldWoodFantasyUISheet_101: 1191352776
+      GoldWoodFantasyUISheet_102: -1169738430
+      GoldWoodFantasyUISheet_103: 1815061376
+      GoldWoodFantasyUISheet_104: -512222454
+      GoldWoodFantasyUISheet_105: -763728229
+      GoldWoodFantasyUISheet_106: -1720137171
+      GoldWoodFantasyUISheet_107: -1583932064
+      GoldWoodFantasyUISheet_108: 186517057
+      GoldWoodFantasyUISheet_109: 1378067282
+      GoldWoodFantasyUISheet_11: -901844918
+      GoldWoodFantasyUISheet_110: -2066127313
+      GoldWoodFantasyUISheet_111: 748362267
+      GoldWoodFantasyUISheet_112: 2054177268
+      GoldWoodFantasyUISheet_113: 1645328468
+      GoldWoodFantasyUISheet_114: -1531106501
+      GoldWoodFantasyUISheet_115: -1077835812
+      GoldWoodFantasyUISheet_116: 629284091
+      GoldWoodFantasyUISheet_117: 183564793
+      GoldWoodFantasyUISheet_118: 1959901397
+      GoldWoodFantasyUISheet_119: -1041241666
+      GoldWoodFantasyUISheet_12: 1644055781
+      GoldWoodFantasyUISheet_120: -173901543
+      GoldWoodFantasyUISheet_121: 452421759
+      GoldWoodFantasyUISheet_122: -324403919
+      GoldWoodFantasyUISheet_123: 1913953784
+      GoldWoodFantasyUISheet_124: 1092925439
+      GoldWoodFantasyUISheet_125: -22992610
+      GoldWoodFantasyUISheet_126: 1276747809
+      GoldWoodFantasyUISheet_127: -2124802792
+      GoldWoodFantasyUISheet_128: -493599943
+      GoldWoodFantasyUISheet_129: 1011053012
+      GoldWoodFantasyUISheet_13: -1928702831
+      GoldWoodFantasyUISheet_130: -984660366
+      GoldWoodFantasyUISheet_131: 1535347335
+      GoldWoodFantasyUISheet_132: 57048021
+      GoldWoodFantasyUISheet_133: 172343743
+      GoldWoodFantasyUISheet_134: -1437735585
+      GoldWoodFantasyUISheet_135: 1761175377
+      GoldWoodFantasyUISheet_136: 1894228376
+      GoldWoodFantasyUISheet_137: -593288692
+      GoldWoodFantasyUISheet_138: 1604169175
+      GoldWoodFantasyUISheet_139: 2096362744
+      GoldWoodFantasyUISheet_14: -227860771
+      GoldWoodFantasyUISheet_140: -1244028693
+      GoldWoodFantasyUISheet_141: -751299651
+      GoldWoodFantasyUISheet_142: 2128179608
+      GoldWoodFantasyUISheet_143: 1181262665
+      GoldWoodFantasyUISheet_144: 75536144
+      GoldWoodFantasyUISheet_145: -1903763784
+      GoldWoodFantasyUISheet_146: -2121104188
+      GoldWoodFantasyUISheet_147: -1735380836
+      GoldWoodFantasyUISheet_148: -1321815883
+      GoldWoodFantasyUISheet_149: -1974885388
+      GoldWoodFantasyUISheet_15: -644975031
+      GoldWoodFantasyUISheet_150: 1598274736
+      GoldWoodFantasyUISheet_151: 106012114
+      GoldWoodFantasyUISheet_152: 82585038
+      GoldWoodFantasyUISheet_153: -1330656344
+      GoldWoodFantasyUISheet_154: 1579258457
+      GoldWoodFantasyUISheet_155: 1526925725
+      GoldWoodFantasyUISheet_156: -332538779
+      GoldWoodFantasyUISheet_157: 2083565442
+      GoldWoodFantasyUISheet_158: 1092914551
+      GoldWoodFantasyUISheet_159: 465951834
+      GoldWoodFantasyUISheet_16: -1742580264
+      GoldWoodFantasyUISheet_160: 1549775406
+      GoldWoodFantasyUISheet_161: -463625370
+      GoldWoodFantasyUISheet_162: -1458174419
+      GoldWoodFantasyUISheet_163: -1884971825
+      GoldWoodFantasyUISheet_164: -1506600148
+      GoldWoodFantasyUISheet_165: -341197214
+      GoldWoodFantasyUISheet_166: 457295590
+      GoldWoodFantasyUISheet_167: 379881648
+      GoldWoodFantasyUISheet_168: 430298924
+      GoldWoodFantasyUISheet_169: -2012309554
+      GoldWoodFantasyUISheet_17: 611290432
+      GoldWoodFantasyUISheet_170: 1494267334
+      GoldWoodFantasyUISheet_171: 1434822530
+      GoldWoodFantasyUISheet_172: 272249498
+      GoldWoodFantasyUISheet_173: -372709114
+      GoldWoodFantasyUISheet_174: 1034931211
+      GoldWoodFantasyUISheet_175: 670262081
+      GoldWoodFantasyUISheet_176: 207858184
+      GoldWoodFantasyUISheet_177: -1437679968
+      GoldWoodFantasyUISheet_178: -1055270863
+      GoldWoodFantasyUISheet_179: -997642567
+      GoldWoodFantasyUISheet_18: -866939544
+      GoldWoodFantasyUISheet_180: 1055617157
+      GoldWoodFantasyUISheet_181: 1949872844
+      GoldWoodFantasyUISheet_182: 1965022430
+      GoldWoodFantasyUISheet_183: 156123584
+      GoldWoodFantasyUISheet_184: -1583256759
+      GoldWoodFantasyUISheet_185: -371873643
+      GoldWoodFantasyUISheet_186: 1429367831
+      GoldWoodFantasyUISheet_187: -968125814
+      GoldWoodFantasyUISheet_188: 1604406209
+      GoldWoodFantasyUISheet_189: 888678454
+      GoldWoodFantasyUISheet_19: -1783012023
+      GoldWoodFantasyUISheet_190: -1039965102
+      GoldWoodFantasyUISheet_191: 1120517771
+      GoldWoodFantasyUISheet_192: 575293670
+      GoldWoodFantasyUISheet_193: 527163231
+      GoldWoodFantasyUISheet_194: 1761919450
+      GoldWoodFantasyUISheet_195: 2037773369
+      GoldWoodFantasyUISheet_196: -368702433
+      GoldWoodFantasyUISheet_197: 940613971
+      GoldWoodFantasyUISheet_198: -1036273633
+      GoldWoodFantasyUISheet_199: -1244112507
+      GoldWoodFantasyUISheet_2: 1723338882
+      GoldWoodFantasyUISheet_20: -706657639
+      GoldWoodFantasyUISheet_200: -491916514
+      GoldWoodFantasyUISheet_21: 2004728552
+      GoldWoodFantasyUISheet_22: 1882585198
+      GoldWoodFantasyUISheet_23: -455797608
+      GoldWoodFantasyUISheet_24: -174435582
+      GoldWoodFantasyUISheet_25: -37397002
+      GoldWoodFantasyUISheet_26: -78108190
+      GoldWoodFantasyUISheet_27: 170254028
+      GoldWoodFantasyUISheet_28: 2076371797
+      GoldWoodFantasyUISheet_29: -1177354044
+      GoldWoodFantasyUISheet_3: 737402832
+      GoldWoodFantasyUISheet_30: 1210028667
+      GoldWoodFantasyUISheet_31: 1207631373
+      GoldWoodFantasyUISheet_32: -1774968505
+      GoldWoodFantasyUISheet_33: 1529228099
+      GoldWoodFantasyUISheet_34: 1596969993
+      GoldWoodFantasyUISheet_35: -1640554935
+      GoldWoodFantasyUISheet_36: -1989910410
+      GoldWoodFantasyUISheet_37: 986601398
+      GoldWoodFantasyUISheet_38: 796100681
+      GoldWoodFantasyUISheet_39: -1258520631
+      GoldWoodFantasyUISheet_4: 1028283139
+      GoldWoodFantasyUISheet_40: -826626157
+      GoldWoodFantasyUISheet_41: 349380860
+      GoldWoodFantasyUISheet_42: 1811154261
+      GoldWoodFantasyUISheet_43: 991737527
+      GoldWoodFantasyUISheet_44: 370592013
+      GoldWoodFantasyUISheet_45: 121672780
+      GoldWoodFantasyUISheet_46: 1330570362
+      GoldWoodFantasyUISheet_47: -1223605214
+      GoldWoodFantasyUISheet_48: -55648175
+      GoldWoodFantasyUISheet_49: -1235043632
+      GoldWoodFantasyUISheet_5: -1847102694
+      GoldWoodFantasyUISheet_50: -1168423095
+      GoldWoodFantasyUISheet_51: -272493821
+      GoldWoodFantasyUISheet_52: 1908064076
+      GoldWoodFantasyUISheet_53: 423443315
+      GoldWoodFantasyUISheet_54: -2113784743
+      GoldWoodFantasyUISheet_55: 895818510
+      GoldWoodFantasyUISheet_56: 197237274
+      GoldWoodFantasyUISheet_57: -927635043
+      GoldWoodFantasyUISheet_58: 278955154
+      GoldWoodFantasyUISheet_59: -114131334
+      GoldWoodFantasyUISheet_6: -422699816
+      GoldWoodFantasyUISheet_60: 199460830
+      GoldWoodFantasyUISheet_61: 1888251604
+      GoldWoodFantasyUISheet_62: 1145468163
+      GoldWoodFantasyUISheet_63: -1800718850
+      GoldWoodFantasyUISheet_64: -313328906
+      GoldWoodFantasyUISheet_65: -825015802
+      GoldWoodFantasyUISheet_66: 674481914
+      GoldWoodFantasyUISheet_67: -1711420739
+      GoldWoodFantasyUISheet_68: 387917122
+      GoldWoodFantasyUISheet_69: -57181273
+      GoldWoodFantasyUISheet_7: 1994419395
+      GoldWoodFantasyUISheet_70: -709171010
+      GoldWoodFantasyUISheet_71: 774864830
+      GoldWoodFantasyUISheet_72: -296099123
+      GoldWoodFantasyUISheet_73: 1794552600
+      GoldWoodFantasyUISheet_74: 2111059729
+      GoldWoodFantasyUISheet_75: -858560947
+      GoldWoodFantasyUISheet_76: -849657452
+      GoldWoodFantasyUISheet_77: -799619786
+      GoldWoodFantasyUISheet_78: -94468502
+      GoldWoodFantasyUISheet_79: -343164493
+      GoldWoodFantasyUISheet_8: 1494383434
+      GoldWoodFantasyUISheet_80: -492911380
+      GoldWoodFantasyUISheet_81: -165435570
+      GoldWoodFantasyUISheet_82: 998974931
+      GoldWoodFantasyUISheet_83: -481818126
+      GoldWoodFantasyUISheet_84: 1968228779
+      GoldWoodFantasyUISheet_85: 1981521522
+      GoldWoodFantasyUISheet_86: 1293962735
+      GoldWoodFantasyUISheet_87: 1961407889
+      GoldWoodFantasyUISheet_88: -805540160
+      GoldWoodFantasyUISheet_89: -945381254
+      GoldWoodFantasyUISheet_9: -1510211464
+      GoldWoodFantasyUISheet_90: 2086066834
+      GoldWoodFantasyUISheet_91: -1319780698
+      GoldWoodFantasyUISheet_92: -1539625508
+      GoldWoodFantasyUISheet_93: -2052922713
+      GoldWoodFantasyUISheet_94: 1429904234
+      GoldWoodFantasyUISheet_95: 1558362611
+      GoldWoodFantasyUISheet_96: 1569009115
+      GoldWoodFantasyUISheet_97: 1600297059
+      GoldWoodFantasyUISheet_98: 697080834
+      GoldWoodFantasyUISheet_99: 414135190
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
