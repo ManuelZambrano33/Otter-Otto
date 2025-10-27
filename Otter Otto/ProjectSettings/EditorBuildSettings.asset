@@ -14,4 +14,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PruebasNatalia.unity
     guid: aa23ee0d03d62e048bd1da52ab93fcdb
+    path: Assets/Scenes/SceneAnimations.unity
+    guid: bf2f74b996b3bb04987052f9c4bb3046
   m_configObjects: {}
