@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SceneAnimations.unity
     guid: bf2f74b996b3bb04987052f9c4bb3046
+  - enabled: 1
+    path: Assets/Scenes Stefanny/Nivel1.unity
+    guid: 11826e2a310046147b494ef6c04796a4
   m_configObjects: {}
