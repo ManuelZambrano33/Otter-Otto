@@ -1,0 +1,4659 @@
+fileFormatVersion: 2
+guid: e00298740f5df394dbfda6b0fb03e181
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 912
+        width: 192
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f33eb3234557c46a2679f5d3500ad9
+      internalID: -1094169370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1024
+        width: 256
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09aa80514f0f3614cb1e206185d16f06
+      internalID: 356672656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_2
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1120
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f339454c9298b45a7f127ac708d480
+      internalID: -693270152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_3
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1156
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f3853ae39a71545af0fe0096a0994c
+      internalID: -1053625521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_4
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1158
+        width: 112
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4710102ef6f8ab74396a0efac91ffc2a
+      internalID: -1310357776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_5
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1157
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22b0287fb5f5de4f8853687f8de6baa
+      internalID: 1434360284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_6
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1157
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415428d2c0f50ed4ab70c11ad085fec4
+      internalID: -1488353881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1158
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f300ded359ba24482c877d0287e410
+      internalID: 1686948932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_8
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 912
+        width: 192
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7083cdedf951da94bb785ea16157a2c6
+      internalID: -2063635179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_9
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1024
+        width: 256
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf7c0be00fc4214ab8c731269a54f5c
+      internalID: -237828151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_10
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1120
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4c00c82e40dbe4b9edcb060b32db93
+      internalID: -209209511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_11
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1156
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8a61dbdd8d3d5488267b255db2da37
+      internalID: -1434704821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_12
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1158
+        width: 112
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1d1e7e626b64245820776cb2f78b3f
+      internalID: -1202332314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_13
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1157
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8636509e7ade640b9c7164babf3f06
+      internalID: -1639098937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_14
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1157
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92ad1d6b205d3c4a984384fd6586cb8
+      internalID: 478328282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_15
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1158
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0725df18e1d044b80c555b28370778
+      internalID: 1973309145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_16
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1125
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632de067e3d7c5a44909ab554f9496fa
+      internalID: 134919408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_17
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1130
+        width: 106
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7aac51c44b027647850f90d0c59bfae
+      internalID: 1908249443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_18
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1125
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b67cae5a8efdf34ea1fdc78854ca37a
+      internalID: -791349908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_19
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1125
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2707ceb5e7e5d874daca3a9f69abbfe8
+      internalID: -1372648477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_20
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1126
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb43fa968b8bf74da0460b438f619ee
+      internalID: -1076475687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_21
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1125
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fb274335103074b83fe33e4ddbb3a0
+      internalID: -2015270775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_22
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1125
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417de1e73df247c43a7662cca5562a04
+      internalID: -2044326286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_23
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1126
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009646f5f4cbd064a947e33c832721fa
+      internalID: 1750456317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_24
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1104
+        width: 96
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87952d4bb0b14a243bfada396748f614
+      internalID: 1628434818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_25
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1110
+        width: 96
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c30811cbedeb04b9051326f280881d
+      internalID: -1542648836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_26
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1104
+        width: 96
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1abeed0f705aa4d8427fa89bc9c42c
+      internalID: 481953051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_27
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1110
+        width: 96
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50200637bce7d5044a70e35536cebf53
+      internalID: -2020853875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_28
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1040
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc296cab0126fe4c9ec8fba80b8ab23
+      internalID: 2041865104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_29
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1076
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8a66afbbfedc146b3f2c72f59210c3
+      internalID: -1993692243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_30
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1092
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73661f6749849a64193b61efafb28a81
+      internalID: -1259802976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_31
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1079
+        width: 96
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2681eaa491f99448b79ed8f1b75c8e
+      internalID: 559557319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_32
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1040
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb54276e6b0181479185b0723b4dd39
+      internalID: 2102487741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_33
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1076
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63a04829cb23414bae48b0058d3070f
+      internalID: 1401295024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_34
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1092
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9464b9eeda65e9c4f97ed37db44f01d9
+      internalID: -594050256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_35
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1079
+        width: 96
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7471ee20cb81e4a9895cfa59be6623
+      internalID: 1584249580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1060
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33ec7118ec4a0049a9a5869f3e7017b
+      internalID: 1797415078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_37
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1061
+        width: 96
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62462b5c0b135de40991299503499440
+      internalID: 1869048430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_38
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1060
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b660314736fae6446a196e53f9337632
+      internalID: -1604315155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_39
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1061
+        width: 96
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ed289b0e56c434c8336fa6a5908540
+      internalID: -1029052789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_40
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1044
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2cd81c1ff844f479167602f747aa9b
+      internalID: -742922964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_41
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1045
+        width: 96
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad36c72a82c613845831be159519b19f
+      internalID: 1481764050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_42
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1044
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d14e793c0a37042a0bd9c9795ab6a6
+      internalID: 37328363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_43
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1045
+        width: 96
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e2201979ab71841b3a6f355931158c
+      internalID: -1152975010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_44
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1032
+        width: 88
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2daab1242c60654eb4891eca648bd0e
+      internalID: 1413540260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_45
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1027
+        width: 88
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e3cad95da29c14c8ba260e9567cbb1
+      internalID: -1878248142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_46
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1022
+        width: 88
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb1fe1376c12c34fb7acfd4c90067da
+      internalID: 184786171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_47
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1017
+        width: 88
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b747b5ad670c14c9dbc98207759153
+      internalID: -1686580751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_48
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1012
+        width: 88
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc3726c432ad054e94a36b5754aa5a0
+      internalID: 845523576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 912
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf84da822e1b8c45bf08aef6e4171d5
+      internalID: -401332512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_50
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 928
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3072a4904bba4a43bbf04de42d98f4c
+      internalID: 384712484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_51
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1004
+        width: 87
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93631292bf577814eb5ef2444bf60363
+      internalID: 297340396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_52
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 912
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d0476c42cc0144b8d8e07c2d25af9b
+      internalID: -2078441158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_53
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 928
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f011b3ee000084ca23c2c534b401c2
+      internalID: 1596863540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_54
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 999
+        width: 87
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2fdd2aad46f5747ae3ca5ba1e029cd
+      internalID: -1340528782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_55
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 994
+        width: 87
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d2a9dd5fd029841826f758455376cc
+      internalID: 110671275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_56
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 989
+        width: 87
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471f16c3f62705c4697934dab72f57b2
+      internalID: -917068098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_57
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 984
+        width: 87
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e403b202ce7d0f94a9480336d63dcdec
+      internalID: -1440851387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_58
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 972
+        width: 92
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fb2976815f56a4b94246cf97ed2cfa
+      internalID: 1421230447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_59
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 967
+        width: 92
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42599518a3b3f7e4680477c0fc2c6b18
+      internalID: 2033845663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 962
+        width: 92
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1350e0097eb3ac343a6128e7e38ba335
+      internalID: 497528451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_61
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 957
+        width: 92
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc1e49bf2eb73a4eb2bdd2882af5b04
+      internalID: -1509965229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_62
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 952
+        width: 92
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8075f83e8eee5314e9f6635baa8281ae
+      internalID: -210048468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_63
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 940
+        width: 94
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5825a638e0fb4694e8445c8d22d0ef0a
+      internalID: 894974987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_64
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 935
+        width: 94
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5fff32a54138d458587ee475ed15e4
+      internalID: -271002232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_65
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 930
+        width: 94
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e055132bfa5006e4b9ab88aff9129126
+      internalID: 1686871385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_66
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 925
+        width: 94
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a545f4ca993a694a9240007f89e71b9
+      internalID: -701055350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_67
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 920
+        width: 94
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f402f7decfcd4844ba0eff2d4dc2599
+      internalID: -16598937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_68
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 624
+        width: 192
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778af62157382534e928427b7cd9ce34
+      internalID: -547481121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 736
+        width: 256
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4623100c6bfbfe947bb7e6203c547f92
+      internalID: 562257258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_70
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf56b0425290bb43b8d55f5d17f016c
+      internalID: -273276960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_71
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 868
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2002a91b213115e43b5e5b59f09161da
+      internalID: -302186096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_72
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 870
+        width: 112
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27b1337f4b20584890ac89b13fc2c91
+      internalID: -341289873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_73
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 869
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371179e5d29d6ee41bc3b987d8d1d9f1
+      internalID: 1687411626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_74
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 869
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75147a76311cbce48a74887e26ed3e6b
+      internalID: 507333906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_75
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 870
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77b70415761c8f4784d230af4e74d9e
+      internalID: -262315723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_76
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 624
+        width: 192
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1692beb0a74cb94185d6f1013e61be7
+      internalID: 1820451835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_77
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 736
+        width: 256
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf8595955a37bc44b5207689f2b84d7
+      internalID: -201816197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_78
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45caddc8475619945925f7acc4b9c920
+      internalID: -1122666131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_79
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 868
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ca511f701647144b82e8c988d9b5a5
+      internalID: 1837550131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_80
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 870
+        width: 112
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e68fa0124e18e438ae33320f23a67e
+      internalID: -949529126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_81
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 869
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6c83a325b259d4da94ed5628570548
+      internalID: -1356258538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_82
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 869
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3263b246e65a51140ab76a7e660d03ad
+      internalID: 1678351703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_83
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 870
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd8c1475e81f3a439d9d754aed1f809
+      internalID: -1428243494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_84
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 837
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94d0ff6559a40248b92dd5556e9f8b3
+      internalID: 1736100188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_85
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 837
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc7e9faf4630914689528fafc187737
+      internalID: -1072182067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_86
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 838
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232544199e0262547a29b65bed94b747
+      internalID: -37616002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_87
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 837
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e49af543fe06a4ea0c5f371f2e06cd
+      internalID: 754370771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_88
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 837
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72fe3695f6377c44aa6d3e10b01c840
+      internalID: 1811605842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_89
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 838
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f4f079fc5968544bc2c0b940255998
+      internalID: -236561750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_90
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 816
+        width: 96
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f196d4b13d56524a8aefea500505ad4
+      internalID: -567909474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_91
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 822
+        width: 96
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6285468a7eccb841a873c0cc7fdfd70
+      internalID: -1235853528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_92
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 816
+        width: 96
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33478ea3e3d898840af4c39fc3e3c466
+      internalID: 804964877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_93
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 822
+        width: 96
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e283c86bcfedb74b83e505d0d1bc068
+      internalID: -1120722190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_94
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaafad8d99264e747a8e0cc97b6c5e49
+      internalID: -1808531889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_95
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 788
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3f93152acb5d44ab0976e03a8552ba
+      internalID: 402470495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_96
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 804
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418b49820189189489630068438c89aa
+      internalID: 268279256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_97
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 791
+        width: 96
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3627c0c941a69354482b6ea8a2d0aa93
+      internalID: -1157424771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_98
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2b636d0145ea846b4c82dd9207f551
+      internalID: -1999850783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_99
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 788
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073437c07716590439d996eff5ab5145
+      internalID: -1735467465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_100
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 804
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8546314967e15424fb1800f8cdda6d6b
+      internalID: -373436887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_101
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 791
+        width: 96
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e42fa0c6722084c9b7cc922b9038ac
+      internalID: 1195180770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_102
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 772
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a9a8cc00ea90040b3582a7c6108905
+      internalID: -834309482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_103
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 773
+        width: 96
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcdb59dfa919ff46b52eaa6dd44cc4a
+      internalID: 1716986610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_104
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 772
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1529b628435dd28498e52eee4719a52f
+      internalID: -58526056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_105
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 773
+        width: 96
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876dda8c916327348a7717d943cbd596
+      internalID: -1744771755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_106
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 756
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9da79337b834a4baf2b0708b625d28
+      internalID: 1706731623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_107
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 757
+        width: 96
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ee5e53aa72a65468ee88cfc72a72ef
+      internalID: -962932552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_108
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 756
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597ef36cf738a454c94202bee6ba3ff8
+      internalID: 203935212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_109
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 757
+        width: 96
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d6b582eee6a6e418cdfa984f4014da
+      internalID: 1132865041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_110
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 624
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e414c8ff42fbd469734a0608011c07
+      internalID: -1977972908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_111
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 640
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4cb43d72907f24bbb161c3ab84c029
+      internalID: 207416230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_112
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 624
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304bcaee614c2fb449b53867b6d4ab61
+      internalID: -2044561602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_113
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 640
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bec4669763f6e48b1587d6089245c0
+      internalID: 1115055652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_114
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 336
+        width: 192
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37d9882897ee504f941b16ff293318b
+      internalID: 46821194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_115
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 448
+        width: 256
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae520d0cb4796c14687b3558de652e90
+      internalID: -1530727910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_116
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784ea675d64f3524bbd226cf2d899bdf
+      internalID: -2105894893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_117
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 580
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa806702cf5e47469515f1a98e5c531
+      internalID: -511755039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_118
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 582
+        width: 112
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d26d9bff7c325745b027a034af10660
+      internalID: -350926809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_119
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 581
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fdc80143908cf4c85b31aa2a6084b0
+      internalID: 1585599491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_120
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 581
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a3fc21f61905740b0a02a2f7791ec2
+      internalID: 171418064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_121
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 582
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6be60b3ce0c9140af4e136549ee77e
+      internalID: 449144685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_122
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 336
+        width: 192
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd0a0b1d3b5e974cb22963e0cd43960
+      internalID: -1085084789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_123
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 448
+        width: 256
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a81d8f97cb45e4d8b0870dab9a2eb1
+      internalID: -1424007514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_124
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 544
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62a1e7f30921fa4c99278cbb2179354
+      internalID: -1307041845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_125
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 580
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80568638c5b95cd438a7f7181e7a75bd
+      internalID: -1597143142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_126
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 582
+        width: 112
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe89efcedf846884f85b00ed4d355751
+      internalID: 1648411873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_127
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 581
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e510d4fc292026c4aa789e4209ff9e49
+      internalID: -1800357498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_128
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 581
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a17ce20117c0ca4b8e329d5d21b46b6
+      internalID: 297607160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_129
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 582
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399deeab2f08ddf45be804158afa40a7
+      internalID: 11415372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_130
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 549
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dea394e786955418934cff1c1f06bd
+      internalID: -587444245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_131
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 549
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b269451060fa14c8a8b2d2dbf1f41a
+      internalID: 1707852144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_132
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 550
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e7669c8c8d1fa40ab2a9916effc540
+      internalID: 640317618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_133
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 549
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbac54b33b5b16546afa46c420fbfaf4
+      internalID: 1720993772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_134
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 549
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243e1dacd166c544f98cc5efa6c617e3
+      internalID: -1822289442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_135
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 550
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f23aa954ea594541842cad6c07bc437
+      internalID: -1510147912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_136
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 528
+        width: 96
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f24fd6ec41c6734fac0c0930dff4216
+      internalID: -1350855125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_137
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 534
+        width: 96
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e3fcb348d8f514f9c868ea9e3d7bae
+      internalID: 1106136927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_138
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 528
+        width: 96
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e10f19a5ad54c4793d3d3d25503df3
+      internalID: -1534775077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_139
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 534
+        width: 96
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c23933f4ab3354181710d82b128b7b
+      internalID: -1972887405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_140
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 464
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873e8372bb48a044f9f8cda043b6fa87
+      internalID: 1927887180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_141
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 500
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58c6f583461bb74f9592b21f4343c91
+      internalID: -636445236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_142
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 516
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa39aa3dc68cc945aca76fb21820629
+      internalID: -399683815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_143
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 503
+        width: 96
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9227caa162c9f4f47922a895f77f0715
+      internalID: -1652636801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_144
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 464
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5537c7e313575a2459ad8462a1d59a14
+      internalID: -704720149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_145
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 500
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2313d85a34d7049a490845b3d3ae5c
+      internalID: -1906073204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_146
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 516
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c32637b862f3f47a027db6f71c57ab
+      internalID: -567654350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_147
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 503
+        width: 96
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d302b3d44d23b0942ade9e9fc5bcf659
+      internalID: -496718957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_148
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 484
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd54f3abe08ade4a8d78e0950b6f5ff
+      internalID: 55328805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_149
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 485
+        width: 96
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74eb0871b29e2a647b45c8b8c56f2994
+      internalID: 1754515911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_150
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 484
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bd8c4a3ff186148a0f8649aa5ad40a
+      internalID: 880963696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_151
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 485
+        width: 96
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557dfb4334eac974896981c08dab819c
+      internalID: -1386733166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_152
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 468
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02258db4ab4fc8c438774aafa3496e24
+      internalID: -326335449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_153
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 469
+        width: 96
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c055d2ebc52c0047a7b74548ca24d8b
+      internalID: 224012326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_154
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 468
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a282835b7cf591418b64d6cc33c3a69
+      internalID: -586356459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_155
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 469
+        width: 96
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a11115d99e55e142b316d0838cc624d
+      internalID: -910658005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_156
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 336
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b65497199455e44802e2ceff21dad3
+      internalID: 2039569782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_157
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 352
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c107f1b6706bd943ac5ea3bc67f4da4
+      internalID: -96724845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_158
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 336
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75ecb9de6d823b4b910563faed6cef8
+      internalID: -1788002928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_159
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 352
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c239702c3212554ebf87c36307a6dd4
+      internalID: -183124306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_160
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 192
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a02f93ff7c45845986e7f6f540b21f
+      internalID: -345697034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_161
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 256
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424ffe67c78645f4f88ea8d5569bf4f2
+      internalID: -1184065346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_162
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911f9e564db4f634fb48a9b6dab88ff9
+      internalID: -1277704233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_163
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 292
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28cb33f83114264a9f93d13105e0f41
+      internalID: -1635860544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_164
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 294
+        width: 112
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8a351e5cd376e4ebe13683468d2438
+      internalID: -156118227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_165
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 293
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50017d28825a2c24687522db2f247c70
+      internalID: -938337851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_166
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 293
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453085c07269eee46b034bf10a78e9ec
+      internalID: 1277726813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_167
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 294
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f6da04e97701549b99d0e6e1748711
+      internalID: -386864377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_168
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 48
+        width: 192
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ca0a9b742dae649a5a393cb3087019
+      internalID: -318839133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_169
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 160
+        width: 256
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9843c94ad2540ba47800546fca525f65
+      internalID: -764895777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_170
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3801f91bf0da55488124607b37ee577
+      internalID: -821287525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_171
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 292
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d4bfe41c0ac64449bb355c4dfd6a39
+      internalID: 1724315283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_172
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 294
+        width: 112
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947de83d3ada36a4da9ba0e10c69aae1
+      internalID: 737062359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_173
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 293
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86e8fd1b46d91f4b90cf357e33ab1b8
+      internalID: 1602311123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_174
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 293
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cfeb8b24c040d4b81bd7ef795e04f7
+      internalID: -1928012166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_175
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 294
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba52afd894978054495e277e63cb8d94
+      internalID: 32369732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_176
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 261
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9598fa2ea3ae9324f9038bce0fc420fa
+      internalID: 1740722892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_177
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 261
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cbf29b77e7b0c4b883f0c03f3845f3
+      internalID: 667976785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_178
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 262
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6778411fa6080e74792fb8968ee2e89a
+      internalID: -1732205665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_179
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 261
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a06bea164367c41a595ae3492f0b4f
+      internalID: -614087870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_180
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 261
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d397f41276ab95e45bc21197f8e0a56a
+      internalID: -1847339976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_181
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 262
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713b84d95c94543488d78f3cd3d47bb4
+      internalID: -294864965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_182
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 96
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5020098ac09c14094a89f152ee8817
+      internalID: -687826740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_183
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 246
+        width: 96
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3e8178128e5954493c7a79f62e859f
+      internalID: 1166170084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_184
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 240
+        width: 96
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762b6f30d74ea0a428d97f4c8fc2e97d
+      internalID: -737981724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_185
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 246
+        width: 96
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3680ee866590014f8ae543d2c3fbc40
+      internalID: -326456562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_186
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 176
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d8a7139a3f11f4f8c584762a7546e2
+      internalID: 236296098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_187
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 212
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4928562b36b8d444f9a6ea0b11d0fe3d
+      internalID: -545582267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_188
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 228
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5a37ea8f4a6e34f8a4ea61f9d0aad2
+      internalID: 1093413612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_189
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 215
+        width: 96
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a3536037da5224687bb232b55245d7
+      internalID: -320764612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_190
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 176
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0049beb1e919e464d81e00a9419ad69b
+      internalID: -1684391013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_191
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 212
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e6f4a09b8a49a4b843fa16d1d15f8f
+      internalID: -1659692656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_192
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 228
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775c6714d03868749ab9e9af34b625d0
+      internalID: 1657658104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_193
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 215
+        width: 96
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63c93ae6e1167443b86d80827818b0b
+      internalID: 589257634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_194
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 196
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f916f8113eb508438a3ea5ef8d58cc2
+      internalID: 1256722831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_195
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 197
+        width: 96
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499fa360bed6d4541a60cf77864f0032
+      internalID: -2108964110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_196
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 196
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9feaca6c6dba7644f8113a248cbc6481
+      internalID: -622492240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_197
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 197
+        width: 96
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023fb1f0d6356904da5d0c79005d6fb2
+      internalID: -1774318732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_198
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 180
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325db0b48b6681d4f8c9029188976114
+      internalID: 1348756292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_199
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 181
+        width: 96
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234cb47d20e628a499a77945bad6c6fe
+      internalID: 1444863894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_200
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 180
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0977c45d8a576b94ea93bc750db0936e
+      internalID: 1940389486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_201
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 181
+        width: 96
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4483e2e3d36fb468bd53a0440e3577
+      internalID: 1619034331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_202
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4a793a2eed4ca4abc376fdc08a18bd
+      internalID: 1627776767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_203
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 64
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d122b352bd74b47bdc635b7029df13
+      internalID: -639935891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_204
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 48
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2390c22368b59d645a99d89280e874a7
+      internalID: 2056175725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreSizedOrnateFantasyUI_205
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 64
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37e31f168af8c044b1f2714c855208a
+      internalID: 139530930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PreSizedOrnateFantasyUI_0: -1094169370
+      PreSizedOrnateFantasyUI_1: 356672656
+      PreSizedOrnateFantasyUI_10: -209209511
+      PreSizedOrnateFantasyUI_100: -373436887
+      PreSizedOrnateFantasyUI_101: 1195180770
+      PreSizedOrnateFantasyUI_102: -834309482
+      PreSizedOrnateFantasyUI_103: 1716986610
+      PreSizedOrnateFantasyUI_104: -58526056
+      PreSizedOrnateFantasyUI_105: -1744771755
+      PreSizedOrnateFantasyUI_106: 1706731623
+      PreSizedOrnateFantasyUI_107: -962932552
+      PreSizedOrnateFantasyUI_108: 203935212
+      PreSizedOrnateFantasyUI_109: 1132865041
+      PreSizedOrnateFantasyUI_11: -1434704821
+      PreSizedOrnateFantasyUI_110: -1977972908
+      PreSizedOrnateFantasyUI_111: 207416230
+      PreSizedOrnateFantasyUI_112: -2044561602
+      PreSizedOrnateFantasyUI_113: 1115055652
+      PreSizedOrnateFantasyUI_114: 46821194
+      PreSizedOrnateFantasyUI_115: -1530727910
+      PreSizedOrnateFantasyUI_116: -2105894893
+      PreSizedOrnateFantasyUI_117: -511755039
+      PreSizedOrnateFantasyUI_118: -350926809
+      PreSizedOrnateFantasyUI_119: 1585599491
+      PreSizedOrnateFantasyUI_12: -1202332314
+      PreSizedOrnateFantasyUI_120: 171418064
+      PreSizedOrnateFantasyUI_121: 449144685
+      PreSizedOrnateFantasyUI_122: -1085084789
+      PreSizedOrnateFantasyUI_123: -1424007514
+      PreSizedOrnateFantasyUI_124: -1307041845
+      PreSizedOrnateFantasyUI_125: -1597143142
+      PreSizedOrnateFantasyUI_126: 1648411873
+      PreSizedOrnateFantasyUI_127: -1800357498
+      PreSizedOrnateFantasyUI_128: 297607160
+      PreSizedOrnateFantasyUI_129: 11415372
+      PreSizedOrnateFantasyUI_13: -1639098937
+      PreSizedOrnateFantasyUI_130: -587444245
+      PreSizedOrnateFantasyUI_131: 1707852144
+      PreSizedOrnateFantasyUI_132: 640317618
+      PreSizedOrnateFantasyUI_133: 1720993772
+      PreSizedOrnateFantasyUI_134: -1822289442
+      PreSizedOrnateFantasyUI_135: -1510147912
+      PreSizedOrnateFantasyUI_136: -1350855125
+      PreSizedOrnateFantasyUI_137: 1106136927
+      PreSizedOrnateFantasyUI_138: -1534775077
+      PreSizedOrnateFantasyUI_139: -1972887405
+      PreSizedOrnateFantasyUI_14: 478328282
+      PreSizedOrnateFantasyUI_140: 1927887180
+      PreSizedOrnateFantasyUI_141: -636445236
+      PreSizedOrnateFantasyUI_142: -399683815
+      PreSizedOrnateFantasyUI_143: -1652636801
+      PreSizedOrnateFantasyUI_144: -704720149
+      PreSizedOrnateFantasyUI_145: -1906073204
+      PreSizedOrnateFantasyUI_146: -567654350
+      PreSizedOrnateFantasyUI_147: -496718957
+      PreSizedOrnateFantasyUI_148: 55328805
+      PreSizedOrnateFantasyUI_149: 1754515911
+      PreSizedOrnateFantasyUI_15: 1973309145
+      PreSizedOrnateFantasyUI_150: 880963696
+      PreSizedOrnateFantasyUI_151: -1386733166
+      PreSizedOrnateFantasyUI_152: -326335449
+      PreSizedOrnateFantasyUI_153: 224012326
+      PreSizedOrnateFantasyUI_154: -586356459
+      PreSizedOrnateFantasyUI_155: -910658005
+      PreSizedOrnateFantasyUI_156: 2039569782
+      PreSizedOrnateFantasyUI_157: -96724845
+      PreSizedOrnateFantasyUI_158: -1788002928
+      PreSizedOrnateFantasyUI_159: -183124306
+      PreSizedOrnateFantasyUI_16: 134919408
+      PreSizedOrnateFantasyUI_160: -345697034
+      PreSizedOrnateFantasyUI_161: -1184065346
+      PreSizedOrnateFantasyUI_162: -1277704233
+      PreSizedOrnateFantasyUI_163: -1635860544
+      PreSizedOrnateFantasyUI_164: -156118227
+      PreSizedOrnateFantasyUI_165: -938337851
+      PreSizedOrnateFantasyUI_166: 1277726813
+      PreSizedOrnateFantasyUI_167: -386864377
+      PreSizedOrnateFantasyUI_168: -318839133
+      PreSizedOrnateFantasyUI_169: -764895777
+      PreSizedOrnateFantasyUI_17: 1908249443
+      PreSizedOrnateFantasyUI_170: -821287525
+      PreSizedOrnateFantasyUI_171: 1724315283
+      PreSizedOrnateFantasyUI_172: 737062359
+      PreSizedOrnateFantasyUI_173: 1602311123
+      PreSizedOrnateFantasyUI_174: -1928012166
+      PreSizedOrnateFantasyUI_175: 32369732
+      PreSizedOrnateFantasyUI_176: 1740722892
+      PreSizedOrnateFantasyUI_177: 667976785
+      PreSizedOrnateFantasyUI_178: -1732205665
+      PreSizedOrnateFantasyUI_179: -614087870
+      PreSizedOrnateFantasyUI_18: -791349908
+      PreSizedOrnateFantasyUI_180: -1847339976
+      PreSizedOrnateFantasyUI_181: -294864965
+      PreSizedOrnateFantasyUI_182: -687826740
+      PreSizedOrnateFantasyUI_183: 1166170084
+      PreSizedOrnateFantasyUI_184: -737981724
+      PreSizedOrnateFantasyUI_185: -326456562
+      PreSizedOrnateFantasyUI_186: 236296098
+      PreSizedOrnateFantasyUI_187: -545582267
+      PreSizedOrnateFantasyUI_188: 1093413612
+      PreSizedOrnateFantasyUI_189: -320764612
+      PreSizedOrnateFantasyUI_19: -1372648477
+      PreSizedOrnateFantasyUI_190: -1684391013
+      PreSizedOrnateFantasyUI_191: -1659692656
+      PreSizedOrnateFantasyUI_192: 1657658104
+      PreSizedOrnateFantasyUI_193: 589257634
+      PreSizedOrnateFantasyUI_194: 1256722831
+      PreSizedOrnateFantasyUI_195: -2108964110
+      PreSizedOrnateFantasyUI_196: -622492240
+      PreSizedOrnateFantasyUI_197: -1774318732
+      PreSizedOrnateFantasyUI_198: 1348756292
+      PreSizedOrnateFantasyUI_199: 1444863894
+      PreSizedOrnateFantasyUI_2: -693270152
+      PreSizedOrnateFantasyUI_20: -1076475687
+      PreSizedOrnateFantasyUI_200: 1940389486
+      PreSizedOrnateFantasyUI_201: 1619034331
+      PreSizedOrnateFantasyUI_202: 1627776767
+      PreSizedOrnateFantasyUI_203: -639935891
+      PreSizedOrnateFantasyUI_204: 2056175725
+      PreSizedOrnateFantasyUI_205: 139530930
+      PreSizedOrnateFantasyUI_21: -2015270775
+      PreSizedOrnateFantasyUI_22: -2044326286
+      PreSizedOrnateFantasyUI_23: 1750456317
+      PreSizedOrnateFantasyUI_24: 1628434818
+      PreSizedOrnateFantasyUI_25: -1542648836
+      PreSizedOrnateFantasyUI_26: 481953051
+      PreSizedOrnateFantasyUI_27: -2020853875
+      PreSizedOrnateFantasyUI_28: 2041865104
+      PreSizedOrnateFantasyUI_29: -1993692243
+      PreSizedOrnateFantasyUI_3: -1053625521
+      PreSizedOrnateFantasyUI_30: -1259802976
+      PreSizedOrnateFantasyUI_31: 559557319
+      PreSizedOrnateFantasyUI_32: 2102487741
+      PreSizedOrnateFantasyUI_33: 1401295024
+      PreSizedOrnateFantasyUI_34: -594050256
+      PreSizedOrnateFantasyUI_35: 1584249580
+      PreSizedOrnateFantasyUI_36: 1797415078
+      PreSizedOrnateFantasyUI_37: 1869048430
+      PreSizedOrnateFantasyUI_38: -1604315155
+      PreSizedOrnateFantasyUI_39: -1029052789
+      PreSizedOrnateFantasyUI_4: -1310357776
+      PreSizedOrnateFantasyUI_40: -742922964
+      PreSizedOrnateFantasyUI_41: 1481764050
+      PreSizedOrnateFantasyUI_42: 37328363
+      PreSizedOrnateFantasyUI_43: -1152975010
+      PreSizedOrnateFantasyUI_44: 1413540260
+      PreSizedOrnateFantasyUI_45: -1878248142
+      PreSizedOrnateFantasyUI_46: 184786171
+      PreSizedOrnateFantasyUI_47: -1686580751
+      PreSizedOrnateFantasyUI_48: 845523576
+      PreSizedOrnateFantasyUI_49: -401332512
+      PreSizedOrnateFantasyUI_5: 1434360284
+      PreSizedOrnateFantasyUI_50: 384712484
+      PreSizedOrnateFantasyUI_51: 297340396
+      PreSizedOrnateFantasyUI_52: -2078441158
+      PreSizedOrnateFantasyUI_53: 1596863540
+      PreSizedOrnateFantasyUI_54: -1340528782
+      PreSizedOrnateFantasyUI_55: 110671275
+      PreSizedOrnateFantasyUI_56: -917068098
+      PreSizedOrnateFantasyUI_57: -1440851387
+      PreSizedOrnateFantasyUI_58: 1421230447
+      PreSizedOrnateFantasyUI_59: 2033845663
+      PreSizedOrnateFantasyUI_6: -1488353881
+      PreSizedOrnateFantasyUI_60: 497528451
+      PreSizedOrnateFantasyUI_61: -1509965229
+      PreSizedOrnateFantasyUI_62: -210048468
+      PreSizedOrnateFantasyUI_63: 894974987
+      PreSizedOrnateFantasyUI_64: -271002232
+      PreSizedOrnateFantasyUI_65: 1686871385
+      PreSizedOrnateFantasyUI_66: -701055350
+      PreSizedOrnateFantasyUI_67: -16598937
+      PreSizedOrnateFantasyUI_68: -547481121
+      PreSizedOrnateFantasyUI_69: 562257258
+      PreSizedOrnateFantasyUI_7: 1686948932
+      PreSizedOrnateFantasyUI_70: -273276960
+      PreSizedOrnateFantasyUI_71: -302186096
+      PreSizedOrnateFantasyUI_72: -341289873
+      PreSizedOrnateFantasyUI_73: 1687411626
+      PreSizedOrnateFantasyUI_74: 507333906
+      PreSizedOrnateFantasyUI_75: -262315723
+      PreSizedOrnateFantasyUI_76: 1820451835
+      PreSizedOrnateFantasyUI_77: -201816197
+      PreSizedOrnateFantasyUI_78: -1122666131
+      PreSizedOrnateFantasyUI_79: 1837550131
+      PreSizedOrnateFantasyUI_8: -2063635179
+      PreSizedOrnateFantasyUI_80: -949529126
+      PreSizedOrnateFantasyUI_81: -1356258538
+      PreSizedOrnateFantasyUI_82: 1678351703
+      PreSizedOrnateFantasyUI_83: -1428243494
+      PreSizedOrnateFantasyUI_84: 1736100188
+      PreSizedOrnateFantasyUI_85: -1072182067
+      PreSizedOrnateFantasyUI_86: -37616002
+      PreSizedOrnateFantasyUI_87: 754370771
+      PreSizedOrnateFantasyUI_88: 1811605842
+      PreSizedOrnateFantasyUI_89: -236561750
+      PreSizedOrnateFantasyUI_9: -237828151
+      PreSizedOrnateFantasyUI_90: -567909474
+      PreSizedOrnateFantasyUI_91: -1235853528
+      PreSizedOrnateFantasyUI_92: 804964877
+      PreSizedOrnateFantasyUI_93: -1120722190
+      PreSizedOrnateFantasyUI_94: -1808531889
+      PreSizedOrnateFantasyUI_95: 402470495
+      PreSizedOrnateFantasyUI_96: 268279256
+      PreSizedOrnateFantasyUI_97: -1157424771
+      PreSizedOrnateFantasyUI_98: -1999850783
+      PreSizedOrnateFantasyUI_99: -1735467465
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
