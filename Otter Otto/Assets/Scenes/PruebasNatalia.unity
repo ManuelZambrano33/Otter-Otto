@@ -259,7 +259,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 143705002342670994, guid: 62a3262f28b1d1e41a7278119cb87d1e, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5383971897815598991, guid: 62a3262f28b1d1e41a7278119cb87d1e, type: 3}
       propertyPath: m_Pivot.x
@@ -685,24 +685,41 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5292346116959140233, guid: d91994af706f8ad4c8c8ae72a9fab897, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1680597380}
   m_SourcePrefab: {fileID: 100100000, guid: d91994af706f8ad4c8c8ae72a9fab897, type: 3}
 --- !u!4 &1680597378 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7170110650015193248, guid: d91994af706f8ad4c8c8ae72a9fab897, type: 3}
   m_PrefabInstance: {fileID: 1680597377}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1680597379 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 7983275323682221821, guid: d91994af706f8ad4c8c8ae72a9fab897, type: 3}
+--- !u!1 &1680597379 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5292346116959140233, guid: d91994af706f8ad4c8c8ae72a9fab897, type: 3}
   m_PrefabInstance: {fileID: 1680597377}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
+--- !u!114 &1680597380
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1680597379}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a5ebafb23af59a24c80e7019bb54ce18, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  botonSoundPrefab: {fileID: 6113126055503457945, guid: 92c01e2a5a0223e48900ae37cff574d1, type: 3}
+  soundOnSprite: {fileID: 21300000, guid: 181d8e9fee239b14f8d08b2e6dbb4921, type: 3}
+  soundOffSprite: {fileID: 21300000, guid: f3c0117ff21f1bd4aa6aa80d727a6ac6, type: 3}
+  musicaMenu: {fileID: 8300000, guid: 245965889d0a183438ef3478b27122c0, type: 3}
+  musicaJuego: {fileID: 8300000, guid: 15e8126d8028a8c428a0a5e9c9b3d87d, type: 3}
+  sonidoClic: {fileID: 8300000, guid: 15e8126d8028a8c428a0a5e9c9b3d87d, type: 3}
+  volumenMusica: 40
+  volumenEfectos: 40
 --- !u!114 &1769039132 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 403939947651798926, guid: 62a3262f28b1d1e41a7278119cb87d1e, type: 3}
@@ -824,7 +841,7 @@ PrefabInstance:
     - target: {fileID: 3337291021331030873, guid: 6b7ff688bc574d144887891760ea6cee, type: 3}
       propertyPath: soundManager
       value: 
-      objectReference: {fileID: 1680597379}
+      objectReference: {fileID: 0}
     - target: {fileID: 3337291021331030873, guid: 6b7ff688bc574d144887891760ea6cee, type: 3}
       propertyPath: panelMenuPrincipal
       value: 
