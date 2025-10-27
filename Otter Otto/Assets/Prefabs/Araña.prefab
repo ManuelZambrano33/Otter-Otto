@@ -165,7 +165,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e0a52378365758c42b5db37eba312339, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tiempoParaDanio: 0.8
+  tiempoParaDanio: 1
   cantidadDanio: 1
   destruirDespuesDeDanio: 1
   musicaClip: {fileID: 8300000, guid: 5ce2f235117842a428473d76c3178ec1, type: 3}

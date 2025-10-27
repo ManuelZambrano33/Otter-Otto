@@ -2,19 +2,36 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
     public static GameManager Instance;
 
-    [Header("Prefab del HUD")]
-    public HUD hudPrefab;       // Asigna el prefab del HUD desde el inspector
-    private HUD hudInstance;    // Instancia persistente del HUD
-
-    [Header("Vidas iniciales")]
+    // ==========================
+    // 🔴 SECCIÓN: VIDAS Y HUD
+    // ==========================
+    [Header("Configuración de Vidas")]
     [SerializeField] private int maxVidas = 3;
     private int vidas;
 
+    [Header("Prefab del HUD")]
+    public HUD hudPrefab;
+    private HUD hudInstance;
+
+    // ==========================
+    // 🟣 SECCIÓN: MENÚS Y UI
+    // ==========================
+    [Header("Prefabs de UI")]
+    public GameObject menuPausaPrefab;
+    public GameObject gameOverPrefab;
+
+    private GameObject menuPausaInstance;
+    public Button botonPausa;
+
+    // ==========================
+    // 🟢 CICLO DE VIDA UNITY
+    // ==========================
     private void Awake()
     {
         // Singleton
@@ -27,19 +44,22 @@ public class GameManager : MonoBehaviour
         Instance = this;
         DontDestroyOnLoad(gameObject);
 
-        // Inicializamos vidas
+        // Iniciar vidas
         vidas = maxVidas;
 
-        // Instanciamos HUD persistente
+        // Instanciar HUD persistente
         if (hudInstance == null && hudPrefab != null)
         {
             hudInstance = Instantiate(hudPrefab);
             DontDestroyOnLoad(hudInstance.gameObject);
         }
 
-        // Sincronizamos HUD
+        // Sincronizar HUD
         if (hudInstance != null)
             hudInstance.ActualizarVidas(vidas);
+
+        // Crear interfaz de usuario (pausa, etc.)
+        CrearInterfazUsuario();
     }
 
     private void OnEnable()
@@ -54,12 +74,14 @@ public class GameManager : MonoBehaviour
 
     private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        // Cada vez que se carga la escena, aseguramos que el HUD muestre las vidas actuales
+        // Re-sincronizar HUD al cambiar de escena
         if (hudInstance != null)
             hudInstance.ActualizarVidas(vidas);
     }
 
-    // Llamar cuando el jugador pierde una vida
+    // ==========================
+    // ❤️ LÓGICA DE VIDAS
+    // ==========================
     public void PerderVida()
     {
         vidas--;
@@ -67,32 +89,78 @@ public class GameManager : MonoBehaviour
         if (hudInstance != null)
             hudInstance.ActualizarVidas(vidas);
 
-        // Si no quedan vidas, recargamos la escena
         if (vidas <= 0)
         {
             vidas = maxVidas;
+
+            // Mostrar Game Over si hay prefab
+            if (gameOverPrefab != null)
+                Instantiate(gameOverPrefab);
+
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
     }
 
-    // Llamar cuando el jugador recoge vida
-    // Devuelve true si se recuperó vida, false si ya estaba al máximo
     public bool RecuperarVida()
     {
         if (vidas >= maxVidas)
-            return false; // No se puede recuperar
+            return false;
 
-        vidas++; // Incrementamos la vida
+        vidas++;
 
         if (hudInstance != null)
             hudInstance.ActualizarVidas(vidas);
 
-        return true; // Vida recuperada
+        return true;
     }
 
-    // Obtener vidas actuales
     public int GetVidas()
     {
         return vidas;
+    }
+
+    // ==========================
+    // ⏸️ MENÚ DE PAUSA Y UI
+    // ==========================
+    private void CrearInterfazUsuario()
+    {
+        if (menuPausaPrefab != null && menuPausaInstance == null)
+        {
+            menuPausaInstance = Instantiate(menuPausaPrefab);
+            DontDestroyOnLoad(menuPausaInstance);
+            menuPausaInstance.SetActive(false);
+        }
+    }
+
+    public void MostrarMenuPausa()
+    {
+        if (menuPausaInstance != null)
+        {
+            menuPausaInstance.SetActive(true);
+            Time.timeScale = 0f;
+            if (botonPausa != null)
+                botonPausa.gameObject.SetActive(false);
+        }
+    }
+
+    public void OcultarMenuPausa()
+    {
+        if (menuPausaInstance != null)
+        {
+            menuPausaInstance.SetActive(false);
+            Time.timeScale = 1f;
+            if (botonPausa != null)
+                botonPausa.gameObject.SetActive(true);
+        }
+    }
+
+    public void ConfigurarBotonPausa(Button nuevoBoton)
+    {
+        botonPausa = nuevoBoton;
+        if (botonPausa != null)
+        {
+            botonPausa.onClick.RemoveAllListeners();
+            botonPausa.onClick.AddListener(MostrarMenuPausa);
+        }
     }
 }
