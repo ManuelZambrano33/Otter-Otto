@@ -1,4 +1,4 @@
-using UnityEngine;
+ï»¿using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
@@ -6,78 +6,174 @@ public class MenuPrincipalManager : MonoBehaviour
 {
     public static MenuPrincipalManager Instance;
 
-    [Header("BOTONES MENÚ PRINCIPAL")]
+    [Header("BOTONES MENÃš PRINCIPAL")]
     public Button botonJugar;
     public Button botonSalir;
 
-    [Header("CONFIGURACIÓN ESCENAS")]
-    public string nombreEscenaJuego = "Nivel1"; // Cambia por tu escena
+    public GameObject panelMenuPrincipal; //
 
-    [Header("REFERENCIAS")]
-    public SoundManager soundManager;
+
+    [Header("CONFIGURACIÃ“N ESCENAS")]
+    public string nombreEscenaJuego = "Nivel1";
+
 
     void Awake()
     {
-        // Singleton pattern
+        Debug.Log("=== MENU PRINCIPAL AWAKE ===");
+
         if (Instance == null)
         {
             Instance = this;
             DontDestroyOnLoad(gameObject);
+            Debug.Log("MenuPrincipalManager - Singleton creado y persistente");
 
-            Debug.Log("MenuPrincipalManager iniciado - Persistente");
+            // âœ… SUSCRIBIRSE al evento de carga de escena
+            SceneManager.sceneLoaded += OnEscenaCargada;
         }
         else
         {
+            Debug.Log("MenuPrincipalManager - Duplicado destruido");
             Destroy(gameObject);
+            return;
         }
+    }
+
+    // âœ… VERIFICAR que esta escucha estÃ© activa
+    void OnEscenaCargada(Scene escena, LoadSceneMode modo)
+    {
+        Debug.Log($"ðŸ”„ Escena cargada: {escena.name}");
+
+        if (escena.name == "PruebasNatalia") // âœ… CAMBIAR por el nombre exacto
+        {
+            Debug.Log("âœ… Escena Menu Principal detectada - Mostrando menÃº");
+            MostrarMenu();
+
+            // Cambiar mÃºsica
+            if (SoundManager.Instance != null)
+                SoundManager.Instance.ReproducirMusicaMenu();
+        }
+        else if (escena.name == nombreEscenaJuego)
+        {
+            Debug.Log("ðŸŽ® Escena de Juego detectada - Ocultando menÃº");
+            OcultarMenu();
+        }
+    }
+
+    // âœ… AÃ‘ADIR para limpiar el evento
+    void OnDestroy()
+    {
+        SceneManager.sceneLoaded -= OnEscenaCargada;
     }
 
     void Start()
     {
-        // Configurar botones
-        if (botonJugar != null)
+        Debug.Log("=== MENU PRINCIPAL START ===");
+
+        // Verificar botones
+        if (botonJugar == null)
+        {
+            Debug.LogError(" BotonJugar NO estÃ¡ asignado en el Inspector!");
+        }
+        else
         {
             botonJugar.onClick.RemoveAllListeners();
             botonJugar.onClick.AddListener(Jugar);
+            Debug.Log(" BotonJugar configurado correctamente");
         }
 
-        if (botonSalir != null)
+        if (botonSalir == null)
+        {
+            Debug.LogError(" BotonSalir NO estÃ¡ asignado en el Inspector!");
+        }
+        else
         {
             botonSalir.onClick.RemoveAllListeners();
             botonSalir.onClick.AddListener(Salir);
+            Debug.Log(" BotonSalir configurado correctamente");
         }
 
-        // Buscar SoundManager si no está asignado
-        if (soundManager == null)
-        {
-            soundManager = FindObjectOfType<SoundManager>();
-        }
+        //  ELIMINADO: La bÃºsqueda del SoundManager - usaremos el Singleton directamente
 
-        // Mostrar menú al inicio
+        // Escanear escenas disponibles
+        EscanearEscenasBuild();
+
         MostrarMenu();
+        Debug.Log(" MenÃº Principal completamente configurado");
+    }
 
-        Debug.Log("Menú Principal configurado. Escena de juego: " + nombreEscenaJuego);
+    void EscanearEscenasBuild()
+    {
+        Debug.Log("=== ESCANEO DE ESCENAS EN BUILD SETTINGS ===");
+        Debug.Log($"Buscando escena: '{nombreEscenaJuego}'");
+
+        bool escenaEncontrada = false;
+
+        for (int i = 0; i < SceneManager.sceneCountInBuildSettings; i++)
+        {
+            string scenePath = SceneManager.GetSceneByBuildIndex(i).path;
+            string sceneName = System.IO.Path.GetFileNameWithoutExtension(scenePath);
+
+            Debug.Log($"Ãndice {i}: '{sceneName}'");
+
+            if (sceneName == nombreEscenaJuego)
+            {
+                escenaEncontrada = true;
+                Debug.Log($" ESCENA ENCONTRADA: '{nombreEscenaJuego}' en Ã­ndice {i}");
+            }
+        }
+
+        if (!escenaEncontrada)
+        {
+            Debug.LogError($" ESCENA NO ENCONTRADA: '{nombreEscenaJuego}'");
+            Debug.Log(" Posibles soluciones:");
+            Debug.Log("1. Verifica el nombre EXACTO (mayÃºsculas/minÃºsculas)");
+            Debug.Log("2. AsegÃºrate de que la escena estÃ¡ en Build Settings");
+            Debug.Log("3. Revisa la carpeta de la escena");
+        }
+        else
+        {
+            Debug.Log($"âœ… La escena '{nombreEscenaJuego}' estÃ¡ lista para cargarse");
+        }
     }
 
     public void Jugar()
     {
-        // Reproducir sonido de clic
+        Debug.Log("=== BOTÃ“N JUGAR PRESIONADO ===");
+
         ReproducirSonidoClic();
 
-        Debug.Log("Cargando escena: " + nombreEscenaJuego);
+        Debug.Log($"ðŸ” Intentando cargar escena: '{nombreEscenaJuego}'");
 
-        // Cargar la escena de juego
-        SceneManager.LoadScene(nombreEscenaJuego);
+        try
+        {
+            // âœ… USAR SoundManager.Instance DIRECTAMENTE
+            if (SoundManager.Instance != null)
+            {
+                SoundManager.Instance.ReproducirMusicaJuego();
+                Debug.Log("âœ… MÃºsica de juego iniciada");
+            }
+            else
+            {
+                Debug.LogError("âŒ SoundManager.Instance es NULL!");
+            }
 
-        // Ocultar el menú cuando se inicia el juego
-        OcultarMenu();
+            // Intentar cargar la escena
+            SceneManager.LoadScene(nombreEscenaJuego);
+            Debug.Log($"ðŸŽ¯ Carga de escena ejecutada: '{nombreEscenaJuego}'");
+
+            OcultarMenu();
+        }
+        catch (System.Exception e)
+        {
+            Debug.LogError($"ðŸ’¥ ERROR al cargar escena: {e.Message}");
+            Debug.LogError($"Stack Trace: {e.StackTrace}");
+        }
     }
 
     public void Salir()
     {
-        // Reproducir sonido de clic
+        Debug.Log("=== BOTÃ“N SALIR PRESIONADO ===");
         ReproducirSonidoClic();
-
         Debug.Log("Saliendo del juego...");
 
 #if UNITY_EDITOR
@@ -87,52 +183,69 @@ public class MenuPrincipalManager : MonoBehaviour
 #endif
     }
 
-    // Método para mostrar el menú (cuando se vuelve desde game over)
     public void MostrarMenu()
     {
+        Debug.Log(" Mostrando Menu Principal");
+
+        if (panelMenuPrincipal != null)
+        {
+            panelMenuPrincipal.SetActive(true);
+            Debug.Log($"Panel activado");
+        }
+
         if (botonJugar != null) botonJugar.gameObject.SetActive(true);
         if (botonSalir != null) botonSalir.gameObject.SetActive(true);
 
-        gameObject.SetActive(true);
-        Debug.Log("Menú Principal mostrado");
+        Debug.Log(" MenÃº Principal visible");
     }
-
-    // Método para ocultar el menú (cuando se inicia el juego)
     public void OcultarMenu()
     {
-        gameObject.SetActive(false);
-        Debug.Log("Menú Principal ocultado");
+        Debug.Log("Ocultando Menu Principal");
+
+       
+        if (panelMenuPrincipal != null)
+        {
+            panelMenuPrincipal.SetActive(false);
+            Debug.Log($" Panel ocultado");
+        }
+
+        Debug.Log(" MenÃº Principal ocultado");
     }
 
-    // Método llamado cuando se vuelve desde game over u otras escenas
     public void VolverAlMenuPrincipal()
     {
+        Debug.Log(" Volviendo al Menu Principal");
+
+        //  USAR SoundManager.Instance DIRECTAMENTE
+        if (SoundManager.Instance != null)
+        {
+            SoundManager.Instance.ReproducirMusicaMenu();
+            Debug.Log(" MÃºsica de menÃº restaurada");
+        }
+
         MostrarMenu();
-
-        // Asegurarse de que el tiempo sea normal
         Time.timeScale = 1f;
-    }
-
-    // Método para cambiar la escena de juego dinámicamente
-    public void CambiarEscenaJuego(string nuevaEscena)
-    {
-        nombreEscenaJuego = nuevaEscena;
-        Debug.Log("Escena de juego cambiada a: " + nuevaEscena);
     }
 
     void ReproducirSonidoClic()
     {
-        // Usar el SoundManager si está disponible y el sonido está activado
-        if (soundManager != null && soundManager.IsSoundEnabled())
+        // âœ… USAR SoundManager.Instance DIRECTAMENTE - NO soundManager
+        if (SoundManager.Instance != null && SoundManager.Instance.IsSoundEnabled())
         {
-            // Aquí podrías reproducir un sonido de clic específico
-            // soundManager.PlayOneShot(sonidoClic);
+            Debug.Log("ðŸ”Š Reproduciendo sonido de clic");
+            SoundManager.Instance.ReproducirSonidoClic(); // âœ… DESCOMENTADO
+        }
+        else
+        {
+            Debug.Log("ðŸ”‡ Sonido desactivado o SoundManager no disponible");
         }
     }
 
-    // Método para verificar si el menú está activo
-    public bool IsMenuActivo()
+    // MÃ©todo para prueba manual desde consola
+    [ContextMenu("Probar Carga de Escena")]
+    void ProbarCargaEscena()
     {
-        return gameObject.activeInHierarchy;
+        Debug.Log("=== PRUEBA MANUAL DESDE CONSOLA ===");
+        Jugar();
     }
 }

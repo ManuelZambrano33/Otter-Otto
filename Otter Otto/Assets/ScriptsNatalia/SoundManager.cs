@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class SoundManager : MonoBehaviour
 {
@@ -32,7 +33,7 @@ public class SoundManager : MonoBehaviour
         if (Instance == null)
         {
             Instance = this;
-            DontDestroyOnLoad(gameObject);
+            DontDestroyOnLoad(gameObject); // ✅ PERSISTENTE
 
             // Crear AudioSources
             audioSourceMusica = gameObject.AddComponent<AudioSource>();
@@ -45,7 +46,10 @@ public class SoundManager : MonoBehaviour
             // Cargar estado
             soundEnabled = PlayerPrefs.GetInt("SoundEnabled", 1) == 1;
 
-            Debug.Log("SoundManager persistente iniciado");
+            Debug.Log("🔊 SoundManager persistente iniciado");
+
+            // Suscribirse al evento de carga de escenas
+            SceneManager.sceneLoaded += OnSceneLoaded;
         }
         else
         {
@@ -56,21 +60,47 @@ public class SoundManager : MonoBehaviour
     void Start()
     {
         // Crear botón de sonido automáticamente
-        if (botonSoundPrefab != null)
-        {
-            Invoke("InstanciarBotonSound", 0.1f);
-        }
+        CrearBotonSound();
 
         // Reproducir música del menú al inicio
         ReproducirMusicaMenu();
     }
 
-    void InstanciarBotonSound()
+    // ✅ MÉTODO QUE SE EJECUTA CADA VEZ QUE SE CARGA UNA NUEVA ESCENA
+    void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
+        Debug.Log($"🔄 SoundManager - Nueva escena cargada: {scene.name}");
+
+        // Recrear el botón en la nueva escena
+        CrearBotonSound();
+
+        // Si es una escena de juego, cambiar la música
+        if (scene.name != "MenuPrincipal" && scene.name != "MainMenu") // Ajusta estos nombres
+        {
+            ReproducirMusicaJuego();
+        }
+    }
+
+    void CrearBotonSound()
+    {
+        // Destruir botón anterior si existe
+        if (botonSoundInstance != null)
+        {
+            Destroy(botonSoundInstance.gameObject);
+            botonSoundInstance = null;
+            imagenBoton = null;
+        }
+
         Canvas canvas = FindObjectOfType<Canvas>();
         if (canvas == null)
         {
-            Debug.LogError("No se encontró Canvas en la escena!");
+            Debug.LogError("❌ No se encontró Canvas en la escena!");
+            return;
+        }
+
+        if (botonSoundPrefab == null)
+        {
+            Debug.LogError("❌ BotonSoundPrefab no asignado!");
             return;
         }
 
@@ -83,7 +113,7 @@ public class SoundManager : MonoBehaviour
 
         if (botonSoundInstance == null)
         {
-            Debug.LogError("El prefab no tiene componente Button!");
+            Debug.LogError("❌ El prefab no tiene componente Button!");
             return;
         }
 
@@ -94,7 +124,7 @@ public class SoundManager : MonoBehaviour
 
         if (imagenBoton == null)
         {
-            Debug.LogError("No se encontró Image en el prefab!");
+            Debug.LogError("❌ No se encontró Image en el prefab!");
             return;
         }
 
@@ -108,7 +138,7 @@ public class SoundManager : MonoBehaviour
         // Actualizar icono inicial
         ActualizarIconoBoton();
 
-        Debug.Log("Botón de sonido creado en todas las escenas");
+        Debug.Log($"✅ Botón de sonido creado en escena: {SceneManager.GetActiveScene().name}");
     }
 
     void PosicionarBoton(GameObject botonObj)
@@ -140,7 +170,7 @@ public class SoundManager : MonoBehaviour
 
         audioSourceMusica.clip = musicaMenu;
         audioSourceMusica.Play();
-        Debug.Log("Reproduciendo música del menú");
+        Debug.Log("🎵 Reproduciendo música del menú");
     }
 
     public void ReproducirMusicaJuego()
@@ -149,13 +179,13 @@ public class SoundManager : MonoBehaviour
 
         audioSourceMusica.clip = musicaJuego;
         audioSourceMusica.Play();
-        Debug.Log("Reproduciendo música del juego");
+        Debug.Log("🎵 Reproduciendo música del juego");
     }
 
     public void PausarMusica()
     {
         audioSourceMusica.Pause();
-        Debug.Log("Música pausada");
+        Debug.Log("⏸️ Música pausada");
     }
 
     public void ReanudarMusica()
@@ -163,14 +193,14 @@ public class SoundManager : MonoBehaviour
         if (soundEnabled && audioSourceMusica.clip != null)
         {
             audioSourceMusica.UnPause();
-            Debug.Log("Música reanudada");
+            Debug.Log("▶️ Música reanudada");
         }
     }
 
     public void DetenerMusica()
     {
         audioSourceMusica.Stop();
-        Debug.Log("Música detenida");
+        Debug.Log("⏹️ Música detenida");
     }
 
     public void ReproducirSonidoClic()
@@ -200,11 +230,17 @@ public class SoundManager : MonoBehaviour
         PlayerPrefs.SetInt("SoundEnabled", soundEnabled ? 1 : 0);
         PlayerPrefs.Save();
 
-        Debug.Log("Sonido: " + (soundEnabled ? "ACTIVADO" : "DESACTIVADO"));
+        Debug.Log("🔊 Sonido: " + (soundEnabled ? "ACTIVADO" : "DESACTIVADO"));
     }
 
     public bool IsSoundEnabled()
     {
         return soundEnabled;
+    }
+
+    // ✅ IMPORTANTE: Limpiar el evento al destruir
+    void OnDestroy()
+    {
+        SceneManager.sceneLoaded -= OnSceneLoaded;
     }
 }
