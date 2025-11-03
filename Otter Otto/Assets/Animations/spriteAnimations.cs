@@ -1,5 +1,5 @@
 using System;
-using UnityEditor.Animations;
+//using UnityEditor.Animations;
 using UnityEngine;
 
 public class spriteAnimations : MonoBehaviour

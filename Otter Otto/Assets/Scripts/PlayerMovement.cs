@@ -1,4 +1,6 @@
 using UnityEngine;
+using System.Collections;
+
 
 [RequireComponent(typeof(Animator))]
 [RequireComponent(typeof(Rigidbody2D))]
@@ -26,6 +28,13 @@ public class PlayerMovement : MonoBehaviour
     private bool isGrounded;
     private bool isInWater = false;
 
+    // SE AGREGO NUEVOOOOOOO
+    [Header("Ataque")]
+    public Transform attackPoint;       // Empty delante del jugador
+    public float attackRange = 0.5f;    // radio del ataque
+    public int attackDamage = 1;        // daño que inflige
+
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -46,13 +55,16 @@ public class PlayerMovement : MonoBehaviour
         // Actualizar animación
         animator.SetFloat("Blend", Mathf.Abs(moveInput));
 
-        // Animación de pelea
         if (Input.GetKeyDown(KeyCode.F))
-            animator.SetTrigger("Fight");
+        {
+            StartCoroutine(DoAttack());
+        }
 
         if (isInWater)
         {
-            // "Nadar" hacia arriba al presionar Espacio
+            // Activar animación de natación
+            animator.SetBool("isSwimming", true);
+
             if (Input.GetKey(KeyCode.Space))
             {
                 rb.velocity = new Vector2(rb.velocity.x, swimForce);
@@ -60,7 +72,9 @@ public class PlayerMovement : MonoBehaviour
         }
         else
         {
-            // Saltar solo si está en tierra
+            // Desactivar animación de natación
+            animator.SetBool("isSwimming", false);
+
             if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
             {
                 rb.velocity = new Vector2(rb.velocity.x, jumpForce);
@@ -78,6 +92,40 @@ public class PlayerMovement : MonoBehaviour
         if (!isInWater)
             isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
     }
+
+    // LO NUEVOOOOOOOOOOOO
+    private IEnumerator DoAttack()
+    {
+        animator.SetBool("isFighting", true);
+
+        // Aquí aplicas el daño (puedes poner un pequeño delay si quieres que coincida con el frame del golpe)
+        Attack();
+
+        yield return new WaitForSeconds(0.4f); // duración de la animación
+
+        animator.SetBool("isFighting", false);
+    }
+
+    void Attack()
+    {
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange);
+
+        foreach (Collider2D enemy in hitEnemies)
+        {
+            if (enemy.CompareTag("Enemy"))
+            {
+                GoblinAI goblin = enemy.GetComponent<GoblinAI>();
+                if (goblin != null)
+                {
+                    goblin.ReceiveDamage(attackDamage);
+                }
+            }
+        }
+    }
+
+    // TERMINA LO NUEVOOOOOOOOOOO
+
+
 
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -106,3 +154,4 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 }
+    
