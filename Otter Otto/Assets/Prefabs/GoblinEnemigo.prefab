@@ -13,11 +13,10 @@ GameObject:
   - component: {fileID: 7148131296617083938}
   - component: {fileID: 7467777230027780629}
   - component: {fileID: 3752585048536523861}
-  - component: {fileID: 5069708679898985771}
-  - component: {fileID: 4489835447842625181}
+  - component: {fileID: -7871243953712196117}
   m_Layer: 0
   m_Name: GoblinEnemigo
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -125,7 +124,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 0
+  m_GravityScale: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -166,14 +165,14 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0.06198275, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2, y: 2}
+    oldSize: {x: 4, y: 4}
     newSize: {x: 1.25, y: 1.25}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -182,7 +181,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.371896, y: 2}
   m_EdgeRadius: 0
---- !u!114 &5069708679898985771
+--- !u!114 &-7871243953712196117
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -191,25 +190,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 5865110791987827909}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b1d9bb9fb78a1f4e8182ee2c4d4c312, type: 3}
+  m_Script: {fileID: 11500000, guid: 2a603595e33bcfb42bc2fc2e8a3a5007, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypointParent: {fileID: 0}
+  vidaGoblin: 3
+  danioGoblin: 1
   moveSpeed: 2
-  waitTime: 1
-  loopWaypoints: 1
---- !u!114 &4489835447842625181
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5865110791987827909}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e0a52378365758c42b5db37eba312339, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  tiempoParaDanio: 0.7
-  cantidadDanio: 1
-  destruirDespuesDeDanio: 1
+  rangoVision: 5
+  rangoAtaque: 2
+  attackPoint: {fileID: 0}
+  attackRange: 3
+  tiempoEntreDanio: 5
